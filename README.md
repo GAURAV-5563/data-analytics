@@ -2,11 +2,11 @@
 
 A collection of data analytics projects covering sales performance, customer churn, marketing funnel conversion, and product quality.
 
-## Live portfolio
+## Live Logitech dashboard
 
-Visit the [Data Analytics Portfolio site](https://gaurav-5563.github.io/data-analytics/) to browse the project descriptions and chart previews.
+Open the [Logitech Analytics Dashboard](https://gaurav-5563.github.io/data-analytics/) for interactive product, regional, customer satisfaction, and returns analysis.
 
-The website is a static GitHub Pages site. The Python dashboards below are source code and require Streamlit to run interactively.
+The live dashboard is hosted on GitHub Pages and reads the Logitech project CSV in your browser. A separate Streamlit implementation is also available in the repository.
 
 ## Projects
 
