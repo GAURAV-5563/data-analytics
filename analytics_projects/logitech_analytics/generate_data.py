@@ -3,8 +3,8 @@ import numpy as np
 
 np.random.seed(42)
 
-months = pd.date_range('2024-01-01', periods=12, freq='MS')
-regions = ['North America', 'Europe', 'Asia Pacific', 'Latin America']
+months = pd.date_range('2024-01-01', '2026-10-01', freq='MS')
+regions = ['North America', 'Europe', 'Asia Pacific', 'Latin America', 'India']
 products = ['Gaming Mouse', 'Mechanical Keyboard', 'Wireless Headset', 'Webcam', 'USB Hub']
 segments = ['Consumer', 'Business', 'Creator', 'Gaming']
 
