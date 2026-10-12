@@ -1,0 +1,5 @@
+city,orders,cancellation_rate,delivered_orders,delivered_revenue,avg_delivery_minutes,on_time_rate
+Austin,381,6.6,356,16745.92,34.4,66.9
+Chicago,398,9.5,360,16555.66,34.5,68.6
+Denver,356,8.7,325,14111.02,35.0,67.4
+Seattle,365,9.3,331,14069.22,35.2,65.3

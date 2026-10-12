@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-This workspace contains three practical data analytics mini-projects, one combined portfolio dashboard, and one Logitech brand analytics dashboard.
+This workspace contains four practical data analytics mini-projects, one combined portfolio dashboard, and one Logitech brand analytics dashboard.
 
 ## Projects
 
@@ -24,6 +24,10 @@ This workspace contains three practical data analytics mini-projects, one combin
    - A branded dashboard for a Logitech-style product, sales, and customer quality analysis.
    - Shows revenue trends, product mix, region impact, and customer satisfaction insights.
 
+6. Delivery Operations Analysis
+   - Analyzes delivery revenue, cancellations, speed, and on-time performance across cities.
+   - Generates reproducible synthetic data and saves charts and city-level metrics.
+
 ## How to run
 
 Install dependencies:
@@ -39,6 +43,9 @@ Run the individual scripts:
 python sales_insights\dashboard.py
 python customer_churn\churn_analysis.py
 python marketing_funnel\funnel_analysis.py
+cd delivery_operations
+python generate_data.py
+python analyze_deliveries.py
 ```
 
 Run the combined dashboard:

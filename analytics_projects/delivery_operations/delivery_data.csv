@@ -1,0 +1,1501 @@
+order_id,order_date,city,restaurant_category,acquisition_channel,order_value,promised_minutes,delivery_minutes,customer_rating,order_status
+ORD-00001,2025-02-23 12:00:00,Seattle,Mexican,Referral,85.0,40,37.0,5.0,Delivered
+ORD-00002,2025-01-03 06:00:00,Denver,Healthy,Paid social,28.84,30,39.0,3.0,Delivered
+ORD-00003,2025-03-22 18:00:00,Seattle,Pizza,Organic,30.47,40,34.0,4.0,Delivered
+ORD-00004,2025-02-24 14:00:00,Seattle,Mexican,Paid social,50.72,50,31.0,5.0,Delivered
+ORD-00005,2025-04-03 14:00:00,Denver,Asian,Organic,42.46,50,43.0,5.0,Delivered
+ORD-00006,2025-03-16 04:00:00,Chicago,Burgers,Paid social,12.01,50,,,Cancelled
+ORD-00007,2025-04-05 11:00:00,Denver,Burgers,Paid social,34.27,40,29.0,5.0,Delivered
+ORD-00008,2025-02-25 05:00:00,Chicago,Healthy,Organic,22.27,40,35.0,5.0,Delivered
+ORD-00009,2025-01-01 22:00:00,Denver,Burgers,Organic,59.01,40,39.0,4.0,Delivered
+ORD-00010,2025-01-16 16:00:00,Seattle,Pizza,Paid social,43.64,30,52.0,4.0,Delivered
+ORD-00011,2025-02-25 01:00:00,Chicago,Burgers,Organic,23.77,40,43.0,5.0,Delivered
+ORD-00012,2025-02-17 16:00:00,Denver,Healthy,Referral,13.66,40,,,Cancelled
+ORD-00013,2025-04-06 07:00:00,Austin,Asian,Paid social,32.4,30,29.0,5.0,Delivered
+ORD-00014,2025-02-19 09:00:00,Denver,Pizza,Paid social,37.88,50,30.0,5.0,Delivered
+ORD-00015,2025-04-14 05:00:00,Chicago,Pizza,Organic,28.92,40,33.0,4.0,Delivered
+ORD-00016,2025-01-23 12:00:00,Chicago,Mexican,Paid social,18.8,30,34.0,4.0,Delivered
+ORD-00017,2025-02-16 04:00:00,Denver,Burgers,Referral,49.65,40,25.0,4.0,Delivered
+ORD-00018,2025-04-01 18:00:00,Austin,Asian,Organic,61.68,50,48.0,4.0,Delivered
+ORD-00019,2025-01-15 21:00:00,Denver,Mexican,Organic,7.85,50,44.0,5.0,Delivered
+ORD-00020,2025-02-08 13:00:00,Denver,Healthy,Organic,9.22,40,32.0,5.0,Delivered
+ORD-00021,2025-04-01 05:00:00,Chicago,Pizza,Organic,32.77,50,41.0,5.0,Delivered
+ORD-00022,2025-03-12 16:00:00,Austin,Mexican,Paid social,74.83,50,37.0,4.0,Delivered
+ORD-00023,2025-04-04 08:00:00,Chicago,Healthy,Organic,6.22,50,,,Cancelled
+ORD-00024,2025-03-03 21:00:00,Austin,Pizza,Paid social,14.77,50,22.0,4.0,Delivered
+ORD-00025,2025-04-14 02:00:00,Chicago,Pizza,Organic,38.73,40,34.0,5.0,Delivered
+ORD-00026,2025-04-16 06:00:00,Denver,Healthy,Organic,31.92,50,34.0,5.0,Delivered
+ORD-00027,2025-04-27 22:00:00,Austin,Asian,Organic,38.14,40,41.0,3.0,Delivered
+ORD-00028,2025-01-15 15:00:00,Denver,Asian,Referral,47.85,40,29.0,5.0,Delivered
+ORD-00029,2025-03-12 22:00:00,Austin,Healthy,Paid social,99.72,30,10.0,5.0,Delivered
+ORD-00030,2025-01-14 17:00:00,Seattle,Healthy,Organic,28.13,40,24.0,3.0,Delivered
+ORD-00031,2025-01-28 11:00:00,Denver,Asian,Paid social,58.34,50,34.0,4.0,Delivered
+ORD-00032,2025-02-06 00:00:00,Chicago,Asian,Organic,41.71,40,,,Cancelled
+ORD-00033,2025-03-19 12:00:00,Denver,Mexican,Organic,25.66,50,52.0,4.0,Delivered
+ORD-00034,2025-02-21 17:00:00,Austin,Mexican,Organic,52.6,40,41.0,5.0,Delivered
+ORD-00035,2025-04-14 18:00:00,Austin,Asian,Referral,33.19,30,36.0,4.0,Delivered
+ORD-00036,2025-02-05 19:00:00,Seattle,Healthy,Paid social,36.94,30,35.0,4.0,Delivered
+ORD-00037,2025-03-16 01:00:00,Seattle,Asian,Paid social,44.5,50,46.0,5.0,Delivered
+ORD-00038,2025-04-02 13:00:00,Austin,Mexican,Organic,45.5,40,29.0,4.0,Delivered
+ORD-00039,2025-04-28 15:00:00,Chicago,Pizza,Organic,17.62,40,34.0,5.0,Delivered
+ORD-00040,2025-01-30 10:00:00,Austin,Pizza,Paid social,33.45,40,24.0,4.0,Delivered
+ORD-00041,2025-03-30 00:00:00,Chicago,Healthy,Organic,99.08,40,49.0,3.0,Delivered
+ORD-00042,2025-01-11 04:00:00,Chicago,Mexican,Referral,58.66,40,39.0,5.0,Delivered
+ORD-00043,2025-03-07 05:00:00,Chicago,Pizza,Paid social,50.72,50,28.0,5.0,Delivered
+ORD-00044,2025-02-19 15:00:00,Denver,Mexican,Organic,24.62,40,34.0,5.0,Delivered
+ORD-00045,2025-04-26 00:00:00,Austin,Healthy,Paid social,24.52,50,40.0,4.0,Delivered
+ORD-00046,2025-04-03 19:00:00,Seattle,Mexican,Referral,71.36,40,32.0,4.0,Delivered
+ORD-00047,2025-04-22 06:00:00,Denver,Healthy,Organic,9.62,50,30.0,5.0,Delivered
+ORD-00048,2025-04-13 01:00:00,Seattle,Pizza,Paid social,27.95,30,28.0,4.0,Delivered
+ORD-00049,2025-02-19 06:00:00,Austin,Healthy,Referral,77.8,40,38.0,5.0,Delivered
+ORD-00050,2025-03-30 00:00:00,Denver,Pizza,Organic,27.92,30,31.0,5.0,Delivered
+ORD-00051,2025-01-04 15:00:00,Seattle,Asian,Referral,56.77,40,30.0,5.0,Delivered
+ORD-00052,2025-03-08 22:00:00,Austin,Asian,Organic,35.38,40,22.0,4.0,Delivered
+ORD-00053,2025-01-06 16:00:00,Seattle,Asian,Paid social,2.62,40,36.0,4.0,Delivered
+ORD-00054,2025-03-28 21:00:00,Chicago,Healthy,Paid social,34.37,40,33.0,4.0,Delivered
+ORD-00055,2025-04-27 00:00:00,Seattle,Mexican,Paid social,39.15,30,32.0,4.0,Delivered
+ORD-00056,2025-03-23 18:00:00,Chicago,Burgers,Paid social,32.55,40,37.0,4.0,Delivered
+ORD-00057,2025-04-11 19:00:00,Seattle,Asian,Paid social,14.91,50,42.0,5.0,Delivered
+ORD-00058,2025-01-29 02:00:00,Austin,Pizza,Organic,32.81,40,42.0,5.0,Delivered
+ORD-00059,2025-04-30 06:00:00,Chicago,Mexican,Organic,6.65,30,41.0,3.0,Delivered
+ORD-00060,2025-03-08 02:00:00,Chicago,Mexican,Organic,27.71,40,33.0,5.0,Delivered
+ORD-00061,2025-03-22 22:00:00,Austin,Healthy,Paid social,59.68,40,29.0,5.0,Delivered
+ORD-00062,2025-04-03 11:00:00,Chicago,Healthy,Organic,95.75,40,25.0,5.0,Delivered
+ORD-00063,2025-03-18 18:00:00,Chicago,Asian,Organic,86.15,40,29.0,5.0,Delivered
+ORD-00064,2025-02-08 01:00:00,Austin,Asian,Referral,16.8,40,35.0,5.0,Delivered
+ORD-00065,2025-03-15 08:00:00,Denver,Pizza,Organic,11.17,40,27.0,5.0,Delivered
+ORD-00066,2025-03-20 11:00:00,Denver,Burgers,Organic,41.75,40,36.0,5.0,Delivered
+ORD-00067,2025-04-13 21:00:00,Seattle,Mexican,Organic,37.45,30,25.0,4.0,Delivered
+ORD-00068,2025-02-27 18:00:00,Denver,Mexican,Organic,54.11,50,18.0,5.0,Delivered
+ORD-00069,2025-03-02 05:00:00,Austin,Burgers,Paid social,23.12,40,43.0,4.0,Delivered
+ORD-00070,2025-03-02 09:00:00,Austin,Burgers,Organic,38.23,40,30.0,4.0,Delivered
+ORD-00071,2025-01-14 17:00:00,Chicago,Mexican,Organic,36.85,30,27.0,5.0,Delivered
+ORD-00072,2025-01-11 19:00:00,Chicago,Asian,Referral,28.4,40,24.0,5.0,Delivered
+ORD-00073,2025-01-03 10:00:00,Austin,Healthy,Referral,9.0,50,39.0,5.0,Delivered
+ORD-00074,2025-03-21 22:00:00,Seattle,Pizza,Paid social,59.12,30,49.0,3.0,Delivered
+ORD-00075,2025-02-20 06:00:00,Denver,Mexican,Referral,41.94,30,31.0,4.0,Delivered
+ORD-00076,2025-04-14 21:00:00,Denver,Mexican,Referral,61.76,30,33.0,5.0,Delivered
+ORD-00077,2025-03-26 06:00:00,Austin,Asian,Organic,71.32,40,46.0,4.0,Delivered
+ORD-00078,2025-01-17 23:00:00,Seattle,Asian,Paid social,34.67,50,17.0,4.0,Delivered
+ORD-00079,2025-01-13 00:00:00,Austin,Burgers,Paid social,59.36,40,55.0,3.0,Delivered
+ORD-00080,2025-02-13 22:00:00,Chicago,Burgers,Organic,97.14,40,59.0,2.0,Delivered
+ORD-00081,2025-04-21 12:00:00,Chicago,Asian,Organic,116.59,50,10.0,5.0,Delivered
+ORD-00082,2025-01-06 20:00:00,Seattle,Pizza,Organic,45.38,40,34.0,4.0,Delivered
+ORD-00083,2025-01-23 11:00:00,Chicago,Asian,Paid social,47.75,30,28.0,4.0,Delivered
+ORD-00084,2025-01-04 13:00:00,Austin,Mexican,Paid social,44.88,30,32.0,5.0,Delivered
+ORD-00085,2025-02-19 15:00:00,Chicago,Healthy,Paid social,52.88,40,31.0,4.0,Delivered
+ORD-00086,2025-04-29 18:00:00,Chicago,Mexican,Organic,69.39,50,43.0,5.0,Delivered
+ORD-00087,2025-03-24 01:00:00,Austin,Burgers,Organic,44.25,40,34.0,5.0,Delivered
+ORD-00088,2025-03-01 05:00:00,Austin,Burgers,Organic,112.49,40,26.0,5.0,Delivered
+ORD-00089,2025-01-18 07:00:00,Austin,Mexican,Paid social,102.84,50,33.0,5.0,Delivered
+ORD-00090,2025-02-12 15:00:00,Chicago,Burgers,Referral,39.08,40,40.0,4.0,Delivered
+ORD-00091,2025-03-04 22:00:00,Chicago,Mexican,Referral,38.92,40,23.0,4.0,Delivered
+ORD-00092,2025-02-02 23:00:00,Chicago,Asian,Referral,26.88,30,19.0,4.0,Delivered
+ORD-00093,2025-03-26 14:00:00,Denver,Asian,Referral,54.74,50,55.0,4.0,Delivered
+ORD-00094,2025-04-28 14:00:00,Austin,Mexican,Referral,30.21,40,29.0,4.0,Delivered
+ORD-00095,2025-01-25 17:00:00,Seattle,Mexican,Organic,25.97,40,34.0,4.0,Delivered
+ORD-00096,2025-01-31 06:00:00,Seattle,Asian,Organic,53.97,30,31.0,4.0,Delivered
+ORD-00097,2025-01-16 03:00:00,Austin,Pizza,Organic,16.06,40,40.0,5.0,Delivered
+ORD-00098,2025-03-29 02:00:00,Chicago,Asian,Organic,70.15,40,53.0,3.0,Delivered
+ORD-00099,2025-02-25 09:00:00,Austin,Pizza,Organic,55.38,40,41.0,4.0,Delivered
+ORD-00100,2025-02-04 01:00:00,Chicago,Mexican,Organic,99.56,30,,,Cancelled
+ORD-00101,2025-01-27 07:00:00,Chicago,Pizza,Referral,45.93,50,21.0,4.0,Delivered
+ORD-00102,2025-01-09 11:00:00,Austin,Pizza,Organic,60.96,50,31.0,4.0,Delivered
+ORD-00103,2025-02-27 03:00:00,Austin,Burgers,Referral,4.08,40,32.0,5.0,Delivered
+ORD-00104,2025-03-23 23:00:00,Chicago,Mexican,Paid social,66.08,40,,,Cancelled
+ORD-00105,2025-01-29 04:00:00,Denver,Burgers,Paid social,81.93,50,43.0,5.0,Delivered
+ORD-00106,2025-01-01 04:00:00,Chicago,Healthy,Paid social,42.6,50,24.0,3.0,Delivered
+ORD-00107,2025-02-26 19:00:00,Seattle,Burgers,Organic,26.73,40,50.0,4.0,Delivered
+ORD-00108,2025-03-23 02:00:00,Chicago,Healthy,Paid social,46.63,40,53.0,4.0,Delivered
+ORD-00109,2025-02-11 09:00:00,Seattle,Pizza,Organic,70.1,40,33.0,5.0,Delivered
+ORD-00110,2025-01-31 01:00:00,Austin,Healthy,Referral,75.98,50,39.0,4.0,Delivered
+ORD-00111,2025-01-19 12:00:00,Denver,Asian,Organic,9.08,40,23.0,5.0,Delivered
+ORD-00112,2025-03-31 12:00:00,Seattle,Burgers,Organic,177.26,30,41.0,3.0,Delivered
+ORD-00113,2025-04-14 09:00:00,Austin,Mexican,Paid social,26.08,30,30.0,5.0,Delivered
+ORD-00114,2025-04-03 08:00:00,Seattle,Healthy,Paid social,61.63,50,24.0,5.0,Delivered
+ORD-00115,2025-03-04 04:00:00,Chicago,Healthy,Organic,87.71,50,32.0,5.0,Delivered
+ORD-00116,2025-03-28 21:00:00,Chicago,Healthy,Paid social,36.65,50,30.0,5.0,Delivered
+ORD-00117,2025-02-17 15:00:00,Denver,Burgers,Organic,77.86,40,32.0,5.0,Delivered
+ORD-00118,2025-01-03 22:00:00,Denver,Healthy,Paid social,9.0,50,44.0,4.0,Delivered
+ORD-00119,2025-02-14 02:00:00,Austin,Mexican,Organic,79.66,50,27.0,5.0,Delivered
+ORD-00120,2025-03-26 10:00:00,Seattle,Pizza,Organic,73.65,40,52.0,3.0,Delivered
+ORD-00121,2025-03-19 16:00:00,Denver,Mexican,Organic,50.53,30,22.0,5.0,Delivered
+ORD-00122,2025-04-29 19:00:00,Seattle,Pizza,Organic,70.24,50,51.0,4.0,Delivered
+ORD-00123,2025-04-30 16:00:00,Chicago,Pizza,Organic,104.57,30,25.0,4.0,Delivered
+ORD-00124,2025-01-30 02:00:00,Denver,Asian,Organic,89.42,40,35.0,5.0,Delivered
+ORD-00125,2025-01-02 03:00:00,Chicago,Burgers,Organic,38.15,40,30.0,5.0,Delivered
+ORD-00126,2025-02-02 21:00:00,Seattle,Burgers,Organic,46.34,40,32.0,3.0,Delivered
+ORD-00127,2025-04-16 03:00:00,Seattle,Asian,Paid social,33.77,40,43.0,5.0,Delivered
+ORD-00128,2025-04-08 14:00:00,Seattle,Asian,Organic,30.78,40,50.0,3.0,Delivered
+ORD-00129,2025-01-12 20:00:00,Denver,Mexican,Paid social,65.83,30,47.0,4.0,Delivered
+ORD-00130,2025-01-20 05:00:00,Seattle,Burgers,Referral,33.51,50,31.0,4.0,Delivered
+ORD-00131,2025-03-09 14:00:00,Chicago,Asian,Organic,65.74,30,37.0,3.0,Delivered
+ORD-00132,2025-03-21 06:00:00,Chicago,Burgers,Referral,36.62,40,,,Cancelled
+ORD-00133,2025-04-28 21:00:00,Seattle,Burgers,Organic,40.39,50,25.0,5.0,Delivered
+ORD-00134,2025-04-01 14:00:00,Austin,Asian,Organic,21.03,30,24.0,4.0,Delivered
+ORD-00135,2025-01-26 10:00:00,Denver,Asian,Paid social,64.65,30,31.0,5.0,Delivered
+ORD-00136,2025-01-05 11:00:00,Austin,Mexican,Paid social,8.5,50,37.0,5.0,Delivered
+ORD-00137,2025-03-18 00:00:00,Denver,Pizza,Referral,81.53,30,,,Cancelled
+ORD-00138,2025-03-08 10:00:00,Chicago,Healthy,Organic,139.41,30,35.0,4.0,Delivered
+ORD-00139,2025-04-21 14:00:00,Chicago,Mexican,Paid social,41.35,40,50.0,4.0,Delivered
+ORD-00140,2025-03-11 02:00:00,Chicago,Pizza,Organic,40.11,50,46.0,4.0,Delivered
+ORD-00141,2025-03-02 03:00:00,Chicago,Pizza,Organic,11.35,40,29.0,4.0,Delivered
+ORD-00142,2025-02-06 09:00:00,Chicago,Asian,Organic,27.29,40,21.0,5.0,Delivered
+ORD-00143,2025-01-11 08:00:00,Chicago,Pizza,Referral,70.72,50,,,Cancelled
+ORD-00144,2025-04-16 03:00:00,Denver,Asian,Organic,77.11,40,12.0,4.0,Delivered
+ORD-00145,2025-04-10 03:00:00,Seattle,Asian,Referral,44.95,40,46.0,3.0,Delivered
+ORD-00146,2025-01-20 12:00:00,Denver,Healthy,Paid social,68.1,40,33.0,5.0,Delivered
+ORD-00147,2025-03-26 11:00:00,Denver,Mexican,Paid social,21.36,40,53.0,4.0,Delivered
+ORD-00148,2025-02-13 16:00:00,Seattle,Asian,Paid social,52.02,40,18.0,4.0,Delivered
+ORD-00149,2025-02-22 10:00:00,Seattle,Burgers,Referral,94.68,40,44.0,4.0,Delivered
+ORD-00150,2025-04-12 20:00:00,Austin,Burgers,Organic,58.7,30,34.0,4.0,Delivered
+ORD-00151,2025-04-12 01:00:00,Denver,Burgers,Organic,103.58,40,32.0,5.0,Delivered
+ORD-00152,2025-01-23 21:00:00,Austin,Pizza,Paid social,105.53,30,21.0,5.0,Delivered
+ORD-00153,2025-02-06 21:00:00,Austin,Burgers,Organic,54.22,40,41.0,4.0,Delivered
+ORD-00154,2025-04-09 13:00:00,Seattle,Burgers,Organic,1.07,30,42.0,4.0,Delivered
+ORD-00155,2025-04-21 00:00:00,Austin,Asian,Organic,76.1,40,53.0,3.0,Delivered
+ORD-00156,2025-01-10 11:00:00,Seattle,Asian,Organic,14.79,40,45.0,4.0,Delivered
+ORD-00157,2025-04-11 00:00:00,Seattle,Asian,Organic,3.01,40,29.0,5.0,Delivered
+ORD-00158,2025-02-28 16:00:00,Seattle,Healthy,Organic,7.36,30,25.0,5.0,Delivered
+ORD-00159,2025-03-12 20:00:00,Denver,Healthy,Referral,79.48,30,21.0,5.0,Delivered
+ORD-00160,2025-01-10 00:00:00,Seattle,Healthy,Organic,54.51,50,50.0,5.0,Delivered
+ORD-00161,2025-03-23 15:00:00,Austin,Pizza,Referral,45.77,40,27.0,5.0,Delivered
+ORD-00162,2025-03-23 08:00:00,Seattle,Healthy,Referral,57.93,50,50.0,4.0,Delivered
+ORD-00163,2025-03-21 12:00:00,Austin,Asian,Organic,7.83,40,40.0,4.0,Delivered
+ORD-00164,2025-04-05 20:00:00,Chicago,Burgers,Paid social,33.67,30,38.0,4.0,Delivered
+ORD-00165,2025-04-24 12:00:00,Austin,Burgers,Paid social,24.2,40,32.0,5.0,Delivered
+ORD-00166,2025-04-12 23:00:00,Chicago,Pizza,Paid social,43.41,40,42.0,5.0,Delivered
+ORD-00167,2025-03-31 08:00:00,Denver,Burgers,Organic,44.46,30,35.0,4.0,Delivered
+ORD-00168,2025-04-28 18:00:00,Chicago,Asian,Organic,56.34,50,31.0,4.0,Delivered
+ORD-00169,2025-03-22 22:00:00,Seattle,Mexican,Organic,61.93,30,42.0,3.0,Delivered
+ORD-00170,2025-03-22 15:00:00,Denver,Healthy,Paid social,8.23,40,,,Cancelled
+ORD-00171,2025-03-07 01:00:00,Denver,Asian,Referral,33.99,40,27.0,5.0,Delivered
+ORD-00172,2025-04-03 06:00:00,Seattle,Mexican,Paid social,39.53,40,41.0,5.0,Delivered
+ORD-00173,2025-01-09 13:00:00,Chicago,Burgers,Paid social,14.43,50,34.0,5.0,Delivered
+ORD-00174,2025-03-02 16:00:00,Chicago,Pizza,Referral,13.17,30,,,Cancelled
+ORD-00175,2025-02-21 00:00:00,Seattle,Pizza,Paid social,7.4,50,30.0,4.0,Delivered
+ORD-00176,2025-04-20 12:00:00,Denver,Burgers,Organic,11.59,40,23.0,5.0,Delivered
+ORD-00177,2025-01-09 16:00:00,Denver,Healthy,Referral,67.84,50,52.0,4.0,Delivered
+ORD-00178,2025-03-19 06:00:00,Chicago,Healthy,Organic,9.63,50,,,Cancelled
+ORD-00179,2025-01-23 02:00:00,Austin,Mexican,Organic,11.21,50,44.0,5.0,Delivered
+ORD-00180,2025-04-17 00:00:00,Austin,Asian,Paid social,42.2,40,31.0,5.0,Delivered
+ORD-00181,2025-04-13 05:00:00,Austin,Burgers,Referral,51.88,40,32.0,4.0,Delivered
+ORD-00182,2025-01-29 06:00:00,Austin,Asian,Organic,38.69,40,49.0,4.0,Delivered
+ORD-00183,2025-04-15 14:00:00,Denver,Mexican,Paid social,16.92,40,31.0,4.0,Delivered
+ORD-00184,2025-03-01 14:00:00,Austin,Asian,Organic,13.42,40,29.0,5.0,Delivered
+ORD-00185,2025-04-27 12:00:00,Denver,Healthy,Organic,41.4,40,54.0,3.0,Delivered
+ORD-00186,2025-03-29 13:00:00,Seattle,Mexican,Organic,35.78,30,35.0,4.0,Delivered
+ORD-00187,2025-01-05 03:00:00,Seattle,Pizza,Paid social,29.6,50,53.0,5.0,Delivered
+ORD-00188,2025-01-25 07:00:00,Chicago,Burgers,Referral,65.94,30,21.0,4.0,Delivered
+ORD-00189,2025-02-18 10:00:00,Austin,Asian,Organic,34.15,50,40.0,5.0,Delivered
+ORD-00190,2025-01-26 08:00:00,Seattle,Mexican,Organic,12.41,30,56.0,3.0,Delivered
+ORD-00191,2025-01-16 21:00:00,Austin,Asian,Organic,29.73,30,,,Cancelled
+ORD-00192,2025-04-28 08:00:00,Denver,Asian,Organic,55.76,50,32.0,4.0,Delivered
+ORD-00193,2025-04-15 06:00:00,Denver,Pizza,Paid social,32.69,50,23.0,5.0,Delivered
+ORD-00194,2025-02-22 03:00:00,Austin,Pizza,Paid social,55.12,40,46.0,4.0,Delivered
+ORD-00195,2025-01-26 19:00:00,Denver,Mexican,Paid social,62.33,50,27.0,5.0,Delivered
+ORD-00196,2025-01-22 19:00:00,Austin,Pizza,Organic,34.23,40,34.0,5.0,Delivered
+ORD-00197,2025-04-20 21:00:00,Austin,Asian,Paid social,38.56,50,23.0,5.0,Delivered
+ORD-00198,2025-02-09 18:00:00,Seattle,Asian,Organic,31.22,40,51.0,5.0,Delivered
+ORD-00199,2025-01-02 12:00:00,Seattle,Burgers,Organic,55.92,40,47.0,3.0,Delivered
+ORD-00200,2025-02-17 16:00:00,Chicago,Asian,Referral,30.53,40,35.0,4.0,Delivered
+ORD-00201,2025-02-24 12:00:00,Seattle,Pizza,Paid social,52.38,30,23.0,5.0,Delivered
+ORD-00202,2025-03-16 18:00:00,Seattle,Asian,Referral,44.96,40,,,Cancelled
+ORD-00203,2025-02-10 15:00:00,Seattle,Healthy,Referral,7.31,40,31.0,5.0,Delivered
+ORD-00204,2025-04-21 18:00:00,Austin,Pizza,Paid social,54.28,30,24.0,5.0,Delivered
+ORD-00205,2025-03-19 05:00:00,Chicago,Mexican,Referral,42.19,50,17.0,5.0,Delivered
+ORD-00206,2025-04-29 09:00:00,Denver,Burgers,Organic,83.57,40,29.0,5.0,Delivered
+ORD-00207,2025-02-14 01:00:00,Seattle,Healthy,Organic,15.02,30,20.0,5.0,Delivered
+ORD-00208,2025-03-20 04:00:00,Seattle,Healthy,Organic,45.45,40,29.0,4.0,Delivered
+ORD-00209,2025-02-13 20:00:00,Chicago,Mexican,Organic,27.45,30,42.0,3.0,Delivered
+ORD-00210,2025-03-25 23:00:00,Austin,Healthy,Organic,8.17,30,31.0,4.0,Delivered
+ORD-00211,2025-03-31 11:00:00,Seattle,Burgers,Organic,5.89,40,39.0,5.0,Delivered
+ORD-00212,2025-02-08 14:00:00,Chicago,Mexican,Paid social,94.16,30,28.0,5.0,Delivered
+ORD-00213,2025-04-23 12:00:00,Chicago,Pizza,Paid social,45.55,30,36.0,4.0,Delivered
+ORD-00214,2025-04-13 20:00:00,Seattle,Healthy,Paid social,33.42,40,54.0,3.0,Delivered
+ORD-00215,2025-04-18 08:00:00,Denver,Asian,Organic,10.52,30,32.0,4.0,Delivered
+ORD-00216,2025-01-27 03:00:00,Chicago,Healthy,Paid social,90.71,50,39.0,4.0,Delivered
+ORD-00217,2025-03-28 03:00:00,Austin,Pizza,Organic,22.33,50,19.0,5.0,Delivered
+ORD-00218,2025-01-13 18:00:00,Chicago,Pizza,Organic,46.99,30,50.0,4.0,Delivered
+ORD-00219,2025-01-13 15:00:00,Seattle,Healthy,Organic,41.07,40,,,Cancelled
+ORD-00220,2025-04-27 18:00:00,Chicago,Asian,Organic,117.47,30,46.0,3.0,Delivered
+ORD-00221,2025-01-19 08:00:00,Denver,Healthy,Organic,37.92,40,34.0,5.0,Delivered
+ORD-00222,2025-04-14 16:00:00,Chicago,Pizza,Referral,26.18,30,41.0,3.0,Delivered
+ORD-00223,2025-02-21 16:00:00,Seattle,Pizza,Paid social,46.01,50,42.0,5.0,Delivered
+ORD-00224,2025-02-06 10:00:00,Seattle,Asian,Paid social,49.37,30,,,Cancelled
+ORD-00225,2025-01-09 19:00:00,Denver,Burgers,Organic,167.87,40,46.0,4.0,Delivered
+ORD-00226,2025-03-23 00:00:00,Seattle,Healthy,Referral,37.47,30,,,Cancelled
+ORD-00227,2025-03-28 13:00:00,Denver,Asian,Paid social,14.59,30,43.0,5.0,Delivered
+ORD-00228,2025-02-26 01:00:00,Chicago,Pizza,Organic,29.61,40,31.0,4.0,Delivered
+ORD-00229,2025-04-08 04:00:00,Denver,Asian,Paid social,45.94,40,38.0,5.0,Delivered
+ORD-00230,2025-02-08 18:00:00,Seattle,Mexican,Paid social,51.63,50,30.0,5.0,Delivered
+ORD-00231,2025-03-08 04:00:00,Seattle,Pizza,Organic,9.63,30,35.0,4.0,Delivered
+ORD-00232,2025-02-04 09:00:00,Austin,Mexican,Organic,27.07,30,24.0,5.0,Delivered
+ORD-00233,2025-03-11 20:00:00,Denver,Mexican,Paid social,113.27,40,,,Cancelled
+ORD-00234,2025-01-17 07:00:00,Austin,Burgers,Organic,19.02,40,35.0,4.0,Delivered
+ORD-00235,2025-02-27 03:00:00,Denver,Pizza,Organic,66.93,50,,,Cancelled
+ORD-00236,2025-03-07 22:00:00,Denver,Healthy,Organic,30.34,50,34.0,4.0,Delivered
+ORD-00237,2025-03-08 18:00:00,Chicago,Asian,Referral,39.01,50,36.0,4.0,Delivered
+ORD-00238,2025-02-23 14:00:00,Seattle,Burgers,Organic,10.8,30,29.0,5.0,Delivered
+ORD-00239,2025-03-19 05:00:00,Seattle,Burgers,Organic,32.5,40,34.0,4.0,Delivered
+ORD-00240,2025-03-03 11:00:00,Austin,Healthy,Organic,45.57,40,25.0,5.0,Delivered
+ORD-00241,2025-02-03 23:00:00,Austin,Burgers,Referral,37.8,40,58.0,3.0,Delivered
+ORD-00242,2025-01-26 20:00:00,Austin,Healthy,Paid social,33.96,40,46.0,3.0,Delivered
+ORD-00243,2025-03-19 17:00:00,Seattle,Healthy,Referral,56.1,30,38.0,4.0,Delivered
+ORD-00244,2025-04-23 15:00:00,Denver,Burgers,Organic,13.38,40,47.0,3.0,Delivered
+ORD-00245,2025-04-01 09:00:00,Denver,Mexican,Organic,47.0,50,15.0,5.0,Delivered
+ORD-00246,2025-03-18 15:00:00,Seattle,Burgers,Paid social,5.39,40,10.0,4.0,Delivered
+ORD-00247,2025-04-21 14:00:00,Seattle,Mexican,Organic,78.91,50,31.0,5.0,Delivered
+ORD-00248,2025-04-18 22:00:00,Austin,Burgers,Referral,34.78,40,21.0,4.0,Delivered
+ORD-00249,2025-03-02 18:00:00,Austin,Pizza,Referral,64.1,30,33.0,4.0,Delivered
+ORD-00250,2025-01-14 02:00:00,Chicago,Burgers,Organic,2.01,40,37.0,5.0,Delivered
+ORD-00251,2025-03-18 02:00:00,Chicago,Asian,Referral,58.41,30,44.0,3.0,Delivered
+ORD-00252,2025-03-16 17:00:00,Denver,Asian,Paid social,21.73,40,24.0,4.0,Delivered
+ORD-00253,2025-02-03 06:00:00,Austin,Pizza,Organic,39.19,30,39.0,4.0,Delivered
+ORD-00254,2025-04-12 22:00:00,Chicago,Pizza,Paid social,59.01,40,35.0,5.0,Delivered
+ORD-00255,2025-04-15 09:00:00,Austin,Burgers,Organic,36.73,50,38.0,3.0,Delivered
+ORD-00256,2025-02-09 17:00:00,Austin,Mexican,Referral,54.55,40,30.0,5.0,Delivered
+ORD-00257,2025-02-27 05:00:00,Austin,Healthy,Organic,30.67,30,49.0,3.0,Delivered
+ORD-00258,2025-01-24 10:00:00,Austin,Asian,Organic,82.81,40,34.0,5.0,Delivered
+ORD-00259,2025-01-22 09:00:00,Denver,Healthy,Paid social,34.71,50,53.0,4.0,Delivered
+ORD-00260,2025-02-01 19:00:00,Chicago,Mexican,Organic,35.2,40,27.0,3.0,Delivered
+ORD-00261,2025-02-13 21:00:00,Chicago,Pizza,Organic,35.66,30,42.0,4.0,Delivered
+ORD-00262,2025-02-02 18:00:00,Chicago,Pizza,Paid social,38.45,40,34.0,4.0,Delivered
+ORD-00263,2025-01-19 04:00:00,Denver,Asian,Organic,13.96,40,32.0,5.0,Delivered
+ORD-00264,2025-02-23 15:00:00,Seattle,Burgers,Organic,18.54,40,41.0,4.0,Delivered
+ORD-00265,2025-03-16 19:00:00,Denver,Healthy,Organic,70.15,30,,,Cancelled
+ORD-00266,2025-02-09 02:00:00,Denver,Asian,Organic,64.08,50,10.0,5.0,Delivered
+ORD-00267,2025-03-06 00:00:00,Denver,Healthy,Organic,61.5,30,10.0,4.0,Delivered
+ORD-00268,2025-02-02 13:00:00,Denver,Asian,Paid social,51.38,30,48.0,4.0,Delivered
+ORD-00269,2025-03-26 11:00:00,Austin,Asian,Referral,26.61,30,47.0,2.0,Delivered
+ORD-00270,2025-03-19 19:00:00,Seattle,Asian,Organic,24.63,40,54.0,5.0,Delivered
+ORD-00271,2025-04-26 04:00:00,Austin,Burgers,Referral,37.35,40,35.0,5.0,Delivered
+ORD-00272,2025-01-07 08:00:00,Chicago,Mexican,Paid social,77.04,30,22.0,5.0,Delivered
+ORD-00273,2025-04-13 09:00:00,Denver,Asian,Paid social,43.86,40,31.0,5.0,Delivered
+ORD-00274,2025-02-10 20:00:00,Chicago,Pizza,Paid social,17.81,40,35.0,5.0,Delivered
+ORD-00275,2025-01-08 22:00:00,Austin,Burgers,Paid social,11.55,40,25.0,5.0,Delivered
+ORD-00276,2025-03-24 18:00:00,Seattle,Asian,Referral,65.35,50,51.0,4.0,Delivered
+ORD-00277,2025-01-21 14:00:00,Austin,Burgers,Paid social,92.23,40,57.0,2.0,Delivered
+ORD-00278,2025-01-22 02:00:00,Austin,Mexican,Paid social,9.17,30,40.0,5.0,Delivered
+ORD-00279,2025-04-28 13:00:00,Seattle,Asian,Organic,66.73,50,35.0,5.0,Delivered
+ORD-00280,2025-01-27 12:00:00,Denver,Asian,Organic,50.6,50,22.0,5.0,Delivered
+ORD-00281,2025-03-07 15:00:00,Austin,Pizza,Paid social,21.17,40,50.0,3.0,Delivered
+ORD-00282,2025-01-25 01:00:00,Seattle,Healthy,Organic,44.25,50,36.0,4.0,Delivered
+ORD-00283,2025-01-15 21:00:00,Seattle,Burgers,Organic,15.55,40,32.0,3.0,Delivered
+ORD-00284,2025-01-01 02:00:00,Austin,Mexican,Organic,32.88,40,40.0,5.0,Delivered
+ORD-00285,2025-01-02 22:00:00,Chicago,Pizza,Organic,38.77,50,29.0,3.0,Delivered
+ORD-00286,2025-02-26 20:00:00,Chicago,Burgers,Paid social,82.32,50,36.0,5.0,Delivered
+ORD-00287,2025-02-22 01:00:00,Austin,Healthy,Paid social,31.76,40,21.0,4.0,Delivered
+ORD-00288,2025-01-05 16:00:00,Austin,Asian,Organic,22.98,40,46.0,3.0,Delivered
+ORD-00289,2025-02-11 22:00:00,Austin,Burgers,Organic,48.13,40,34.0,5.0,Delivered
+ORD-00290,2025-02-02 18:00:00,Austin,Healthy,Organic,55.5,30,47.0,3.0,Delivered
+ORD-00291,2025-03-10 13:00:00,Chicago,Asian,Organic,22.35,50,33.0,5.0,Delivered
+ORD-00292,2025-04-30 09:00:00,Chicago,Pizza,Paid social,17.26,40,34.0,4.0,Delivered
+ORD-00293,2025-03-24 23:00:00,Austin,Pizza,Paid social,18.46,40,,,Cancelled
+ORD-00294,2025-04-21 04:00:00,Chicago,Burgers,Paid social,82.49,40,43.0,4.0,Delivered
+ORD-00295,2025-01-24 01:00:00,Austin,Burgers,Paid social,53.95,40,26.0,3.0,Delivered
+ORD-00296,2025-01-26 19:00:00,Seattle,Asian,Referral,30.3,40,30.0,3.0,Delivered
+ORD-00297,2025-04-01 02:00:00,Austin,Healthy,Paid social,74.09,50,,,Cancelled
+ORD-00298,2025-02-07 04:00:00,Seattle,Asian,Paid social,22.22,40,36.0,5.0,Delivered
+ORD-00299,2025-04-12 20:00:00,Denver,Burgers,Organic,36.35,40,18.0,5.0,Delivered
+ORD-00300,2025-02-25 15:00:00,Seattle,Healthy,Organic,15.33,40,33.0,5.0,Delivered
+ORD-00301,2025-01-25 02:00:00,Denver,Mexican,Referral,72.09,40,43.0,4.0,Delivered
+ORD-00302,2025-04-12 07:00:00,Chicago,Healthy,Organic,20.88,30,31.0,4.0,Delivered
+ORD-00303,2025-03-08 01:00:00,Denver,Burgers,Organic,21.24,40,33.0,5.0,Delivered
+ORD-00304,2025-04-07 07:00:00,Chicago,Mexican,Referral,48.83,30,37.0,4.0,Delivered
+ORD-00305,2025-02-24 06:00:00,Austin,Mexican,Paid social,4.86,40,34.0,5.0,Delivered
+ORD-00306,2025-01-16 03:00:00,Chicago,Mexican,Organic,12.65,50,25.0,5.0,Delivered
+ORD-00307,2025-03-23 17:00:00,Chicago,Healthy,Organic,60.25,40,35.0,4.0,Delivered
+ORD-00308,2025-01-15 22:00:00,Austin,Pizza,Organic,18.24,40,45.0,4.0,Delivered
+ORD-00309,2025-03-21 14:00:00,Austin,Burgers,Paid social,140.76,40,24.0,5.0,Delivered
+ORD-00310,2025-02-20 00:00:00,Seattle,Pizza,Organic,42.72,30,31.0,4.0,Delivered
+ORD-00311,2025-04-05 23:00:00,Denver,Burgers,Referral,8.57,50,21.0,5.0,Delivered
+ORD-00312,2025-04-15 09:00:00,Chicago,Burgers,Referral,3.13,40,44.0,4.0,Delivered
+ORD-00313,2025-02-18 21:00:00,Seattle,Healthy,Paid social,95.08,30,34.0,4.0,Delivered
+ORD-00314,2025-04-16 20:00:00,Austin,Healthy,Paid social,42.69,30,26.0,5.0,Delivered
+ORD-00315,2025-01-14 07:00:00,Chicago,Mexican,Organic,33.47,50,36.0,4.0,Delivered
+ORD-00316,2025-01-13 21:00:00,Seattle,Burgers,Organic,42.59,30,23.0,5.0,Delivered
+ORD-00317,2025-04-30 05:00:00,Denver,Pizza,Paid social,8.5,40,25.0,3.0,Delivered
+ORD-00318,2025-03-10 21:00:00,Chicago,Burgers,Organic,37.17,30,20.0,4.0,Delivered
+ORD-00319,2025-02-24 02:00:00,Chicago,Healthy,Organic,19.28,30,24.0,5.0,Delivered
+ORD-00320,2025-01-19 16:00:00,Austin,Pizza,Organic,35.61,50,,,Cancelled
+ORD-00321,2025-02-04 16:00:00,Austin,Healthy,Organic,27.13,30,28.0,5.0,Delivered
+ORD-00322,2025-03-24 08:00:00,Austin,Mexican,Organic,41.13,30,40.0,2.0,Delivered
+ORD-00323,2025-04-09 14:00:00,Seattle,Pizza,Paid social,30.28,40,27.0,5.0,Delivered
+ORD-00324,2025-04-20 23:00:00,Denver,Pizza,Referral,25.87,50,43.0,5.0,Delivered
+ORD-00325,2025-02-18 22:00:00,Chicago,Healthy,Paid social,17.64,40,25.0,4.0,Delivered
+ORD-00326,2025-02-24 13:00:00,Seattle,Healthy,Referral,8.88,30,35.0,4.0,Delivered
+ORD-00327,2025-01-20 14:00:00,Austin,Asian,Organic,7.17,50,36.0,5.0,Delivered
+ORD-00328,2025-01-10 23:00:00,Austin,Healthy,Referral,13.04,40,58.0,3.0,Delivered
+ORD-00329,2025-02-22 13:00:00,Chicago,Pizza,Paid social,57.31,50,41.0,5.0,Delivered
+ORD-00330,2025-03-11 12:00:00,Seattle,Healthy,Organic,16.84,50,29.0,5.0,Delivered
+ORD-00331,2025-01-13 12:00:00,Denver,Burgers,Referral,22.8,40,42.0,5.0,Delivered
+ORD-00332,2025-02-19 00:00:00,Seattle,Asian,Organic,22.96,40,56.0,3.0,Delivered
+ORD-00333,2025-03-18 23:00:00,Austin,Burgers,Organic,27.45,40,19.0,4.0,Delivered
+ORD-00334,2025-04-08 07:00:00,Seattle,Burgers,Organic,51.09,40,27.0,4.0,Delivered
+ORD-00335,2025-04-23 14:00:00,Austin,Pizza,Organic,30.07,40,33.0,4.0,Delivered
+ORD-00336,2025-02-10 20:00:00,Austin,Healthy,Organic,64.27,50,31.0,5.0,Delivered
+ORD-00337,2025-02-17 00:00:00,Denver,Asian,Paid social,13.17,40,32.0,4.0,Delivered
+ORD-00338,2025-04-15 23:00:00,Austin,Asian,Referral,60.04,40,22.0,4.0,Delivered
+ORD-00339,2025-03-25 04:00:00,Seattle,Pizza,Organic,88.2,40,49.0,4.0,Delivered
+ORD-00340,2025-02-02 20:00:00,Seattle,Pizza,Paid social,36.84,40,,,Cancelled
+ORD-00341,2025-03-24 05:00:00,Denver,Mexican,Organic,15.86,40,33.0,4.0,Delivered
+ORD-00342,2025-01-19 21:00:00,Chicago,Asian,Referral,51.75,50,,,Cancelled
+ORD-00343,2025-02-23 21:00:00,Austin,Asian,Organic,37.3,40,35.0,5.0,Delivered
+ORD-00344,2025-02-06 18:00:00,Denver,Asian,Organic,45.95,30,25.0,4.0,Delivered
+ORD-00345,2025-04-30 02:00:00,Denver,Mexican,Paid social,65.46,40,22.0,5.0,Delivered
+ORD-00346,2025-01-05 04:00:00,Seattle,Mexican,Paid social,28.42,40,33.0,4.0,Delivered
+ORD-00347,2025-04-13 19:00:00,Denver,Pizza,Paid social,25.24,50,,,Cancelled
+ORD-00348,2025-02-03 17:00:00,Austin,Asian,Paid social,157.63,40,37.0,5.0,Delivered
+ORD-00349,2025-01-05 08:00:00,Austin,Asian,Paid social,52.19,40,21.0,5.0,Delivered
+ORD-00350,2025-03-21 05:00:00,Seattle,Pizza,Organic,72.75,40,43.0,5.0,Delivered
+ORD-00351,2025-03-23 08:00:00,Austin,Pizza,Organic,63.07,40,36.0,5.0,Delivered
+ORD-00352,2025-01-18 01:00:00,Seattle,Mexican,Organic,73.32,30,37.0,3.0,Delivered
+ORD-00353,2025-01-05 14:00:00,Austin,Asian,Organic,46.99,50,49.0,5.0,Delivered
+ORD-00354,2025-01-14 08:00:00,Denver,Asian,Organic,67.83,50,31.0,5.0,Delivered
+ORD-00355,2025-02-19 01:00:00,Seattle,Asian,Paid social,22.9,40,28.0,5.0,Delivered
+ORD-00356,2025-01-16 21:00:00,Chicago,Mexican,Organic,8.66,40,30.0,5.0,Delivered
+ORD-00357,2025-03-26 08:00:00,Austin,Pizza,Paid social,18.65,30,33.0,4.0,Delivered
+ORD-00358,2025-01-10 07:00:00,Seattle,Mexican,Paid social,33.62,40,34.0,4.0,Delivered
+ORD-00359,2025-04-05 16:00:00,Austin,Burgers,Paid social,30.59,40,27.0,5.0,Delivered
+ORD-00360,2025-04-15 22:00:00,Denver,Mexican,Paid social,37.44,40,15.0,4.0,Delivered
+ORD-00361,2025-03-28 00:00:00,Seattle,Asian,Organic,21.89,30,,,Cancelled
+ORD-00362,2025-04-24 07:00:00,Denver,Pizza,Organic,5.59,40,39.0,5.0,Delivered
+ORD-00363,2025-04-23 16:00:00,Austin,Pizza,Paid social,27.85,40,36.0,4.0,Delivered
+ORD-00364,2025-01-06 14:00:00,Seattle,Mexican,Paid social,11.76,40,47.0,5.0,Delivered
+ORD-00365,2025-02-11 00:00:00,Austin,Pizza,Organic,36.35,40,55.0,4.0,Delivered
+ORD-00366,2025-04-02 05:00:00,Denver,Healthy,Organic,48.48,30,43.0,4.0,Delivered
+ORD-00367,2025-02-10 18:00:00,Denver,Healthy,Paid social,27.46,40,49.0,4.0,Delivered
+ORD-00368,2025-03-30 10:00:00,Chicago,Burgers,Paid social,15.05,50,43.0,5.0,Delivered
+ORD-00369,2025-04-03 21:00:00,Chicago,Pizza,Organic,38.76,40,52.0,4.0,Delivered
+ORD-00370,2025-04-30 15:00:00,Austin,Mexican,Organic,162.9,30,54.0,3.0,Delivered
+ORD-00371,2025-02-09 14:00:00,Seattle,Asian,Referral,52.17,40,45.0,5.0,Delivered
+ORD-00372,2025-02-11 17:00:00,Austin,Pizza,Organic,54.72,40,42.0,4.0,Delivered
+ORD-00373,2025-01-03 21:00:00,Chicago,Asian,Referral,25.4,40,33.0,5.0,Delivered
+ORD-00374,2025-02-04 06:00:00,Denver,Healthy,Organic,19.76,40,35.0,5.0,Delivered
+ORD-00375,2025-02-03 15:00:00,Denver,Asian,Paid social,73.42,30,32.0,5.0,Delivered
+ORD-00376,2025-02-24 08:00:00,Denver,Mexican,Organic,3.64,40,41.0,5.0,Delivered
+ORD-00377,2025-02-20 12:00:00,Denver,Healthy,Organic,21.37,40,,,Cancelled
+ORD-00378,2025-04-13 18:00:00,Denver,Healthy,Referral,100.63,50,33.0,5.0,Delivered
+ORD-00379,2025-04-03 20:00:00,Seattle,Mexican,Organic,34.83,30,11.0,4.0,Delivered
+ORD-00380,2025-03-29 10:00:00,Chicago,Mexican,Referral,9.74,40,52.0,3.0,Delivered
+ORD-00381,2025-01-01 15:00:00,Seattle,Burgers,Organic,49.42,40,33.0,5.0,Delivered
+ORD-00382,2025-02-26 14:00:00,Seattle,Pizza,Referral,27.59,30,,,Cancelled
+ORD-00383,2025-03-29 13:00:00,Seattle,Healthy,Referral,7.77,40,50.0,4.0,Delivered
+ORD-00384,2025-01-30 08:00:00,Seattle,Asian,Paid social,43.43,30,38.0,4.0,Delivered
+ORD-00385,2025-02-20 23:00:00,Seattle,Asian,Organic,39.2,30,49.0,2.0,Delivered
+ORD-00386,2025-03-29 05:00:00,Austin,Burgers,Paid social,37.67,40,,,Cancelled
+ORD-00387,2025-04-06 08:00:00,Seattle,Mexican,Paid social,51.69,40,59.0,4.0,Delivered
+ORD-00388,2025-04-13 13:00:00,Denver,Healthy,Referral,14.24,40,,,Cancelled
+ORD-00389,2025-02-21 13:00:00,Chicago,Burgers,Organic,46.39,30,37.0,4.0,Delivered
+ORD-00390,2025-02-17 23:00:00,Denver,Healthy,Organic,41.14,40,49.0,3.0,Delivered
+ORD-00391,2025-02-15 22:00:00,Chicago,Pizza,Organic,72.46,40,23.0,5.0,Delivered
+ORD-00392,2025-03-22 05:00:00,Denver,Healthy,Paid social,21.16,50,32.0,5.0,Delivered
+ORD-00393,2025-02-20 08:00:00,Seattle,Asian,Referral,80.52,50,49.0,5.0,Delivered
+ORD-00394,2025-02-18 00:00:00,Austin,Asian,Organic,62.37,40,16.0,5.0,Delivered
+ORD-00395,2025-01-21 04:00:00,Chicago,Healthy,Paid social,33.88,40,41.0,5.0,Delivered
+ORD-00396,2025-02-27 10:00:00,Seattle,Healthy,Referral,37.66,30,40.0,5.0,Delivered
+ORD-00397,2025-01-29 11:00:00,Chicago,Pizza,Organic,4.01,40,55.0,4.0,Delivered
+ORD-00398,2025-03-04 23:00:00,Seattle,Healthy,Organic,36.93,30,19.0,4.0,Delivered
+ORD-00399,2025-04-17 15:00:00,Austin,Mexican,Paid social,59.64,40,51.0,5.0,Delivered
+ORD-00400,2025-04-04 02:00:00,Denver,Healthy,Paid social,30.28,30,29.0,5.0,Delivered
+ORD-00401,2025-02-27 08:00:00,Seattle,Burgers,Organic,72.35,50,31.0,4.0,Delivered
+ORD-00402,2025-04-28 07:00:00,Seattle,Mexican,Referral,49.98,40,23.0,4.0,Delivered
+ORD-00403,2025-04-28 15:00:00,Austin,Mexican,Paid social,119.58,40,24.0,5.0,Delivered
+ORD-00404,2025-02-23 07:00:00,Seattle,Mexican,Referral,22.32,40,39.0,4.0,Delivered
+ORD-00405,2025-04-02 14:00:00,Chicago,Asian,Referral,56.03,40,,,Cancelled
+ORD-00406,2025-02-11 01:00:00,Chicago,Mexican,Referral,12.07,30,42.0,4.0,Delivered
+ORD-00407,2025-04-16 10:00:00,Chicago,Burgers,Paid social,32.3,50,28.0,5.0,Delivered
+ORD-00408,2025-02-14 19:00:00,Denver,Mexican,Organic,51.91,50,23.0,4.0,Delivered
+ORD-00409,2025-01-31 23:00:00,Denver,Mexican,Paid social,58.29,30,30.0,4.0,Delivered
+ORD-00410,2025-01-17 01:00:00,Chicago,Mexican,Organic,28.62,40,,,Cancelled
+ORD-00411,2025-04-12 02:00:00,Austin,Pizza,Paid social,77.3,40,32.0,5.0,Delivered
+ORD-00412,2025-02-05 15:00:00,Seattle,Healthy,Organic,87.84,30,35.0,4.0,Delivered
+ORD-00413,2025-04-08 14:00:00,Austin,Asian,Paid social,22.52,40,42.0,5.0,Delivered
+ORD-00414,2025-01-11 08:00:00,Austin,Mexican,Organic,33.02,30,46.0,2.0,Delivered
+ORD-00415,2025-03-02 02:00:00,Denver,Mexican,Organic,30.62,30,32.0,4.0,Delivered
+ORD-00416,2025-02-21 08:00:00,Chicago,Asian,Organic,25.39,40,25.0,5.0,Delivered
+ORD-00417,2025-02-22 15:00:00,Denver,Asian,Paid social,84.45,40,36.0,5.0,Delivered
+ORD-00418,2025-01-21 01:00:00,Seattle,Burgers,Paid social,83.85,50,40.0,4.0,Delivered
+ORD-00419,2025-01-09 20:00:00,Austin,Pizza,Organic,31.37,40,20.0,4.0,Delivered
+ORD-00420,2025-02-11 13:00:00,Chicago,Healthy,Referral,55.85,50,26.0,5.0,Delivered
+ORD-00421,2025-02-26 10:00:00,Denver,Pizza,Referral,71.82,40,28.0,5.0,Delivered
+ORD-00422,2025-04-06 05:00:00,Seattle,Pizza,Organic,43.83,50,33.0,5.0,Delivered
+ORD-00423,2025-02-25 11:00:00,Denver,Healthy,Paid social,29.69,40,27.0,4.0,Delivered
+ORD-00424,2025-01-30 12:00:00,Chicago,Mexican,Organic,21.3,40,42.0,5.0,Delivered
+ORD-00425,2025-02-01 11:00:00,Denver,Burgers,Organic,59.31,40,19.0,5.0,Delivered
+ORD-00426,2025-03-15 10:00:00,Seattle,Asian,Paid social,12.97,50,19.0,5.0,Delivered
+ORD-00427,2025-02-22 06:00:00,Chicago,Burgers,Organic,30.27,30,32.0,3.0,Delivered
+ORD-00428,2025-04-19 03:00:00,Seattle,Healthy,Referral,26.61,40,33.0,5.0,Delivered
+ORD-00429,2025-02-22 18:00:00,Seattle,Asian,Referral,12.28,50,20.0,5.0,Delivered
+ORD-00430,2025-03-10 00:00:00,Chicago,Burgers,Referral,34.88,40,29.0,4.0,Delivered
+ORD-00431,2025-01-08 16:00:00,Austin,Asian,Paid social,32.52,50,,,Cancelled
+ORD-00432,2025-01-24 06:00:00,Seattle,Mexican,Paid social,17.97,40,31.0,5.0,Delivered
+ORD-00433,2025-04-13 00:00:00,Austin,Pizza,Referral,82.48,30,37.0,4.0,Delivered
+ORD-00434,2025-02-11 08:00:00,Chicago,Pizza,Organic,59.57,40,28.0,5.0,Delivered
+ORD-00435,2025-02-20 12:00:00,Austin,Burgers,Organic,38.07,40,50.0,4.0,Delivered
+ORD-00436,2025-03-12 20:00:00,Denver,Healthy,Paid social,65.44,30,40.0,5.0,Delivered
+ORD-00437,2025-01-07 22:00:00,Chicago,Pizza,Organic,75.36,30,27.0,5.0,Delivered
+ORD-00438,2025-03-02 19:00:00,Denver,Healthy,Organic,84.8,30,36.0,5.0,Delivered
+ORD-00439,2025-02-11 12:00:00,Seattle,Burgers,Organic,22.22,50,36.0,5.0,Delivered
+ORD-00440,2025-01-18 20:00:00,Seattle,Burgers,Paid social,65.43,50,47.0,4.0,Delivered
+ORD-00441,2025-02-20 04:00:00,Seattle,Mexican,Organic,32.62,40,29.0,4.0,Delivered
+ORD-00442,2025-02-23 14:00:00,Austin,Healthy,Organic,42.82,30,43.0,2.0,Delivered
+ORD-00443,2025-01-23 08:00:00,Chicago,Pizza,Organic,23.09,40,35.0,5.0,Delivered
+ORD-00444,2025-03-07 04:00:00,Austin,Pizza,Organic,36.85,50,50.0,5.0,Delivered
+ORD-00445,2025-03-31 12:00:00,Seattle,Asian,Referral,66.03,40,48.0,4.0,Delivered
+ORD-00446,2025-02-02 01:00:00,Denver,Mexican,Organic,98.22,40,37.0,5.0,Delivered
+ORD-00447,2025-04-26 23:00:00,Chicago,Burgers,Paid social,34.41,30,,,Cancelled
+ORD-00448,2025-03-15 11:00:00,Denver,Healthy,Paid social,18.44,50,40.0,4.0,Delivered
+ORD-00449,2025-04-03 18:00:00,Denver,Burgers,Organic,107.24,50,33.0,4.0,Delivered
+ORD-00450,2025-01-09 10:00:00,Chicago,Burgers,Referral,21.56,30,52.0,3.0,Delivered
+ORD-00451,2025-04-03 02:00:00,Chicago,Burgers,Paid social,8.86,50,36.0,5.0,Delivered
+ORD-00452,2025-02-10 09:00:00,Austin,Asian,Paid social,24.5,30,31.0,5.0,Delivered
+ORD-00453,2025-03-27 05:00:00,Chicago,Mexican,Organic,4.46,30,30.0,5.0,Delivered
+ORD-00454,2025-04-07 12:00:00,Chicago,Asian,Organic,73.06,50,23.0,5.0,Delivered
+ORD-00455,2025-01-31 01:00:00,Seattle,Burgers,Referral,20.46,40,41.0,5.0,Delivered
+ORD-00456,2025-02-01 02:00:00,Seattle,Asian,Paid social,14.79,40,27.0,4.0,Delivered
+ORD-00457,2025-01-08 03:00:00,Seattle,Asian,Referral,40.16,50,,,Cancelled
+ORD-00458,2025-03-14 14:00:00,Austin,Burgers,Referral,98.25,50,22.0,4.0,Delivered
+ORD-00459,2025-04-03 21:00:00,Seattle,Pizza,Organic,50.6,30,36.0,3.0,Delivered
+ORD-00460,2025-02-19 04:00:00,Chicago,Pizza,Paid social,12.79,40,47.0,4.0,Delivered
+ORD-00461,2025-01-20 07:00:00,Chicago,Burgers,Organic,130.38,50,13.0,4.0,Delivered
+ORD-00462,2025-02-07 23:00:00,Seattle,Healthy,Paid social,46.74,40,55.0,2.0,Delivered
+ORD-00463,2025-02-18 08:00:00,Seattle,Pizza,Organic,68.47,50,,,Cancelled
+ORD-00464,2025-04-20 22:00:00,Austin,Burgers,Organic,10.47,40,36.0,5.0,Delivered
+ORD-00465,2025-01-15 21:00:00,Chicago,Pizza,Paid social,117.09,30,41.0,3.0,Delivered
+ORD-00466,2025-02-11 04:00:00,Denver,Asian,Paid social,28.22,30,42.0,3.0,Delivered
+ORD-00467,2025-03-18 13:00:00,Denver,Burgers,Paid social,9.68,50,38.0,4.0,Delivered
+ORD-00468,2025-01-29 09:00:00,Chicago,Burgers,Organic,43.45,50,,,Cancelled
+ORD-00469,2025-04-17 04:00:00,Denver,Asian,Organic,68.45,30,40.0,4.0,Delivered
+ORD-00470,2025-04-20 02:00:00,Seattle,Pizza,Referral,55.66,30,53.0,2.0,Delivered
+ORD-00471,2025-02-15 14:00:00,Austin,Pizza,Organic,55.03,50,40.0,5.0,Delivered
+ORD-00472,2025-03-31 12:00:00,Denver,Burgers,Organic,52.48,30,55.0,1.0,Delivered
+ORD-00473,2025-04-01 17:00:00,Denver,Pizza,Paid social,40.85,30,44.0,2.0,Delivered
+ORD-00474,2025-03-23 19:00:00,Seattle,Mexican,Organic,10.43,50,17.0,5.0,Delivered
+ORD-00475,2025-01-23 09:00:00,Chicago,Pizza,Paid social,32.27,50,61.0,4.0,Delivered
+ORD-00476,2025-01-06 22:00:00,Austin,Pizza,Organic,29.18,50,29.0,5.0,Delivered
+ORD-00477,2025-02-11 16:00:00,Denver,Healthy,Referral,85.01,40,50.0,3.0,Delivered
+ORD-00478,2025-01-16 17:00:00,Denver,Asian,Referral,73.13,40,35.0,4.0,Delivered
+ORD-00479,2025-02-05 01:00:00,Chicago,Pizza,Referral,26.46,50,46.0,5.0,Delivered
+ORD-00480,2025-03-18 14:00:00,Seattle,Mexican,Paid social,61.69,40,28.0,4.0,Delivered
+ORD-00481,2025-03-12 15:00:00,Seattle,Pizza,Organic,35.6,40,41.0,5.0,Delivered
+ORD-00482,2025-01-26 03:00:00,Austin,Pizza,Paid social,8.9,50,32.0,4.0,Delivered
+ORD-00483,2025-01-03 03:00:00,Seattle,Asian,Referral,4.06,40,51.0,4.0,Delivered
+ORD-00484,2025-01-28 01:00:00,Austin,Healthy,Paid social,57.05,50,39.0,5.0,Delivered
+ORD-00485,2025-02-24 13:00:00,Chicago,Asian,Paid social,16.37,30,44.0,3.0,Delivered
+ORD-00486,2025-04-04 11:00:00,Austin,Asian,Paid social,16.31,50,13.0,5.0,Delivered
+ORD-00487,2025-02-13 19:00:00,Chicago,Pizza,Paid social,22.02,40,34.0,5.0,Delivered
+ORD-00488,2025-02-04 07:00:00,Seattle,Pizza,Paid social,57.87,40,39.0,5.0,Delivered
+ORD-00489,2025-03-08 03:00:00,Chicago,Pizza,Organic,73.76,50,37.0,5.0,Delivered
+ORD-00490,2025-01-09 14:00:00,Denver,Pizza,Paid social,72.77,40,45.0,4.0,Delivered
+ORD-00491,2025-01-28 01:00:00,Austin,Mexican,Paid social,7.91,40,31.0,5.0,Delivered
+ORD-00492,2025-01-05 08:00:00,Denver,Healthy,Organic,21.3,40,35.0,4.0,Delivered
+ORD-00493,2025-03-05 01:00:00,Chicago,Pizza,Referral,18.7,50,47.0,5.0,Delivered
+ORD-00494,2025-02-23 04:00:00,Denver,Healthy,Paid social,57.84,50,12.0,5.0,Delivered
+ORD-00495,2025-03-11 21:00:00,Seattle,Mexican,Organic,21.56,40,41.0,5.0,Delivered
+ORD-00496,2025-03-16 01:00:00,Denver,Burgers,Referral,33.82,30,32.0,5.0,Delivered
+ORD-00497,2025-02-17 09:00:00,Austin,Mexican,Paid social,61.24,30,26.0,5.0,Delivered
+ORD-00498,2025-04-15 06:00:00,Chicago,Pizza,Paid social,38.51,50,38.0,4.0,Delivered
+ORD-00499,2025-04-21 04:00:00,Austin,Mexican,Organic,46.61,50,47.0,4.0,Delivered
+ORD-00500,2025-01-14 07:00:00,Chicago,Healthy,Referral,32.96,50,45.0,5.0,Delivered
+ORD-00501,2025-04-21 09:00:00,Austin,Asian,Organic,69.0,30,34.0,5.0,Delivered
+ORD-00502,2025-01-24 14:00:00,Denver,Asian,Paid social,73.38,40,44.0,4.0,Delivered
+ORD-00503,2025-01-30 19:00:00,Chicago,Mexican,Organic,52.47,50,,,Cancelled
+ORD-00504,2025-03-05 13:00:00,Austin,Mexican,Paid social,73.57,50,34.0,4.0,Delivered
+ORD-00505,2025-01-04 12:00:00,Austin,Mexican,Paid social,156.63,30,28.0,5.0,Delivered
+ORD-00506,2025-02-13 16:00:00,Seattle,Pizza,Paid social,60.56,40,29.0,5.0,Delivered
+ORD-00507,2025-01-24 08:00:00,Seattle,Healthy,Paid social,36.43,30,43.0,5.0,Delivered
+ORD-00508,2025-02-27 21:00:00,Seattle,Pizza,Referral,47.33,40,35.0,5.0,Delivered
+ORD-00509,2025-04-08 18:00:00,Austin,Mexican,Paid social,78.28,30,25.0,5.0,Delivered
+ORD-00510,2025-04-21 21:00:00,Chicago,Burgers,Organic,27.98,30,18.0,4.0,Delivered
+ORD-00511,2025-01-26 11:00:00,Seattle,Pizza,Referral,26.35,30,43.0,4.0,Delivered
+ORD-00512,2025-03-07 09:00:00,Denver,Asian,Paid social,46.8,50,30.0,5.0,Delivered
+ORD-00513,2025-02-26 22:00:00,Austin,Healthy,Referral,35.97,40,38.0,4.0,Delivered
+ORD-00514,2025-02-19 19:00:00,Austin,Pizza,Referral,18.56,50,47.0,4.0,Delivered
+ORD-00515,2025-03-17 22:00:00,Chicago,Mexican,Referral,42.1,40,22.0,5.0,Delivered
+ORD-00516,2025-04-29 17:00:00,Seattle,Pizza,Paid social,88.4,40,35.0,5.0,Delivered
+ORD-00517,2025-02-18 15:00:00,Austin,Asian,Paid social,51.33,40,33.0,4.0,Delivered
+ORD-00518,2025-01-08 19:00:00,Seattle,Healthy,Organic,15.67,40,39.0,5.0,Delivered
+ORD-00519,2025-04-20 21:00:00,Denver,Mexican,Paid social,56.73,40,47.0,5.0,Delivered
+ORD-00520,2025-04-22 20:00:00,Seattle,Mexican,Paid social,31.01,40,22.0,4.0,Delivered
+ORD-00521,2025-02-08 16:00:00,Seattle,Pizza,Paid social,125.96,50,41.0,5.0,Delivered
+ORD-00522,2025-03-02 04:00:00,Chicago,Healthy,Referral,53.86,50,45.0,4.0,Delivered
+ORD-00523,2025-04-14 12:00:00,Seattle,Mexican,Organic,24.37,30,33.0,4.0,Delivered
+ORD-00524,2025-03-02 10:00:00,Austin,Healthy,Organic,59.49,40,34.0,5.0,Delivered
+ORD-00525,2025-02-27 17:00:00,Chicago,Pizza,Paid social,44.14,30,39.0,4.0,Delivered
+ORD-00526,2025-04-21 15:00:00,Austin,Asian,Organic,83.2,30,38.0,3.0,Delivered
+ORD-00527,2025-04-10 10:00:00,Austin,Burgers,Organic,26.24,40,,,Cancelled
+ORD-00528,2025-03-02 21:00:00,Austin,Asian,Organic,53.78,40,,,Cancelled
+ORD-00529,2025-01-20 09:00:00,Austin,Mexican,Referral,10.45,40,25.0,4.0,Delivered
+ORD-00530,2025-02-22 14:00:00,Austin,Burgers,Paid social,40.88,30,45.0,3.0,Delivered
+ORD-00531,2025-03-23 04:00:00,Chicago,Burgers,Organic,15.32,50,47.0,5.0,Delivered
+ORD-00532,2025-02-02 16:00:00,Austin,Pizza,Organic,43.17,50,37.0,3.0,Delivered
+ORD-00533,2025-03-06 11:00:00,Austin,Burgers,Organic,49.66,40,20.0,4.0,Delivered
+ORD-00534,2025-03-21 01:00:00,Seattle,Asian,Organic,52.45,50,34.0,3.0,Delivered
+ORD-00535,2025-01-11 04:00:00,Austin,Asian,Paid social,26.22,30,37.0,4.0,Delivered
+ORD-00536,2025-03-10 08:00:00,Austin,Burgers,Paid social,41.72,40,24.0,3.0,Delivered
+ORD-00537,2025-03-30 12:00:00,Austin,Pizza,Organic,76.87,50,31.0,5.0,Delivered
+ORD-00538,2025-01-26 17:00:00,Austin,Healthy,Paid social,104.86,50,21.0,5.0,Delivered
+ORD-00539,2025-03-07 19:00:00,Denver,Pizza,Organic,42.68,50,41.0,5.0,Delivered
+ORD-00540,2025-03-27 03:00:00,Seattle,Burgers,Organic,78.19,40,37.0,3.0,Delivered
+ORD-00541,2025-01-06 07:00:00,Denver,Burgers,Referral,19.85,50,,,Cancelled
+ORD-00542,2025-03-19 06:00:00,Denver,Asian,Paid social,29.27,40,39.0,5.0,Delivered
+ORD-00543,2025-02-01 04:00:00,Austin,Burgers,Referral,45.85,30,34.0,4.0,Delivered
+ORD-00544,2025-02-17 16:00:00,Seattle,Healthy,Organic,36.13,30,,,Cancelled
+ORD-00545,2025-03-19 18:00:00,Austin,Pizza,Organic,33.57,50,31.0,4.0,Delivered
+ORD-00546,2025-01-01 12:00:00,Denver,Burgers,Organic,73.16,40,27.0,5.0,Delivered
+ORD-00547,2025-01-03 00:00:00,Chicago,Mexican,Paid social,17.41,40,27.0,5.0,Delivered
+ORD-00548,2025-02-23 14:00:00,Seattle,Mexican,Referral,18.82,50,30.0,5.0,Delivered
+ORD-00549,2025-04-24 23:00:00,Chicago,Burgers,Organic,13.36,40,35.0,4.0,Delivered
+ORD-00550,2025-01-01 17:00:00,Denver,Pizza,Referral,46.77,40,36.0,5.0,Delivered
+ORD-00551,2025-04-05 15:00:00,Chicago,Healthy,Referral,30.98,40,33.0,3.0,Delivered
+ORD-00552,2025-01-09 23:00:00,Denver,Asian,Paid social,68.76,40,31.0,4.0,Delivered
+ORD-00553,2025-02-28 16:00:00,Seattle,Pizza,Organic,44.15,50,31.0,4.0,Delivered
+ORD-00554,2025-02-21 16:00:00,Denver,Pizza,Paid social,25.77,40,60.0,3.0,Delivered
+ORD-00555,2025-02-26 04:00:00,Chicago,Asian,Organic,22.93,40,27.0,4.0,Delivered
+ORD-00556,2025-01-10 19:00:00,Chicago,Pizza,Paid social,4.1,40,29.0,5.0,Delivered
+ORD-00557,2025-04-01 10:00:00,Denver,Pizza,Paid social,34.63,40,68.0,2.0,Delivered
+ORD-00558,2025-02-03 01:00:00,Chicago,Pizza,Referral,15.5,50,39.0,5.0,Delivered
+ORD-00559,2025-04-03 12:00:00,Austin,Burgers,Paid social,74.24,30,21.0,5.0,Delivered
+ORD-00560,2025-03-20 15:00:00,Chicago,Mexican,Paid social,29.92,50,43.0,5.0,Delivered
+ORD-00561,2025-03-08 03:00:00,Austin,Healthy,Paid social,11.44,40,26.0,4.0,Delivered
+ORD-00562,2025-02-07 00:00:00,Austin,Mexican,Paid social,83.52,30,44.0,4.0,Delivered
+ORD-00563,2025-03-20 06:00:00,Chicago,Mexican,Referral,34.99,40,33.0,5.0,Delivered
+ORD-00564,2025-04-30 17:00:00,Seattle,Mexican,Organic,56.5,40,31.0,4.0,Delivered
+ORD-00565,2025-04-21 18:00:00,Seattle,Healthy,Referral,26.04,40,51.0,4.0,Delivered
+ORD-00566,2025-04-20 22:00:00,Chicago,Mexican,Referral,85.31,50,41.0,5.0,Delivered
+ORD-00567,2025-01-27 08:00:00,Chicago,Healthy,Referral,20.66,40,45.0,3.0,Delivered
+ORD-00568,2025-03-12 05:00:00,Austin,Asian,Paid social,30.97,30,39.0,5.0,Delivered
+ORD-00569,2025-02-17 17:00:00,Seattle,Asian,Referral,8.4,40,31.0,4.0,Delivered
+ORD-00570,2025-04-27 00:00:00,Austin,Pizza,Organic,84.02,40,41.0,4.0,Delivered
+ORD-00571,2025-04-25 00:00:00,Seattle,Pizza,Paid social,23.69,40,47.0,3.0,Delivered
+ORD-00572,2025-04-15 03:00:00,Seattle,Healthy,Organic,47.5,50,36.0,5.0,Delivered
+ORD-00573,2025-01-20 12:00:00,Denver,Asian,Organic,51.96,40,53.0,3.0,Delivered
+ORD-00574,2025-02-08 06:00:00,Chicago,Mexican,Organic,75.67,30,44.0,3.0,Delivered
+ORD-00575,2025-03-27 08:00:00,Seattle,Asian,Organic,45.17,40,37.0,4.0,Delivered
+ORD-00576,2025-03-31 22:00:00,Denver,Burgers,Organic,36.44,30,38.0,4.0,Delivered
+ORD-00577,2025-02-12 00:00:00,Denver,Burgers,Referral,70.88,40,36.0,4.0,Delivered
+ORD-00578,2025-01-17 10:00:00,Seattle,Asian,Organic,51.4,30,22.0,5.0,Delivered
+ORD-00579,2025-01-17 10:00:00,Seattle,Pizza,Paid social,32.68,40,34.0,2.0,Delivered
+ORD-00580,2025-03-24 03:00:00,Austin,Healthy,Organic,86.36,50,37.0,5.0,Delivered
+ORD-00581,2025-02-24 12:00:00,Seattle,Burgers,Paid social,54.0,40,31.0,5.0,Delivered
+ORD-00582,2025-02-28 22:00:00,Seattle,Healthy,Paid social,14.44,40,38.0,5.0,Delivered
+ORD-00583,2025-04-08 20:00:00,Austin,Asian,Organic,96.03,40,35.0,5.0,Delivered
+ORD-00584,2025-01-03 00:00:00,Chicago,Healthy,Paid social,25.55,40,43.0,4.0,Delivered
+ORD-00585,2025-04-01 13:00:00,Seattle,Healthy,Referral,75.44,40,42.0,5.0,Delivered
+ORD-00586,2025-02-02 21:00:00,Austin,Burgers,Referral,11.62,30,37.0,3.0,Delivered
+ORD-00587,2025-04-22 17:00:00,Chicago,Pizza,Organic,70.61,50,21.0,5.0,Delivered
+ORD-00588,2025-04-25 15:00:00,Denver,Burgers,Paid social,15.18,40,53.0,3.0,Delivered
+ORD-00589,2025-03-02 06:00:00,Denver,Asian,Paid social,44.38,40,34.0,4.0,Delivered
+ORD-00590,2025-02-07 21:00:00,Seattle,Healthy,Organic,53.03,30,34.0,4.0,Delivered
+ORD-00591,2025-01-28 23:00:00,Austin,Pizza,Referral,33.17,40,,,Cancelled
+ORD-00592,2025-01-22 18:00:00,Chicago,Burgers,Organic,39.44,40,30.0,5.0,Delivered
+ORD-00593,2025-04-30 21:00:00,Seattle,Asian,Referral,17.92,40,50.0,4.0,Delivered
+ORD-00594,2025-01-23 12:00:00,Denver,Pizza,Organic,66.05,40,49.0,5.0,Delivered
+ORD-00595,2025-02-23 14:00:00,Austin,Healthy,Organic,45.95,40,39.0,4.0,Delivered
+ORD-00596,2025-02-27 12:00:00,Chicago,Asian,Referral,20.56,50,34.0,5.0,Delivered
+ORD-00597,2025-03-23 12:00:00,Chicago,Mexican,Referral,47.11,50,41.0,4.0,Delivered
+ORD-00598,2025-04-12 02:00:00,Denver,Burgers,Referral,48.07,30,36.0,4.0,Delivered
+ORD-00599,2025-03-08 23:00:00,Chicago,Pizza,Referral,40.72,30,,,Cancelled
+ORD-00600,2025-04-01 23:00:00,Denver,Burgers,Organic,4.16,50,38.0,5.0,Delivered
+ORD-00601,2025-03-10 00:00:00,Chicago,Healthy,Organic,29.89,50,31.0,5.0,Delivered
+ORD-00602,2025-02-22 10:00:00,Denver,Healthy,Organic,65.42,50,38.0,5.0,Delivered
+ORD-00603,2025-01-19 22:00:00,Austin,Burgers,Paid social,54.94,30,37.0,3.0,Delivered
+ORD-00604,2025-01-26 01:00:00,Denver,Healthy,Organic,53.89,40,41.0,5.0,Delivered
+ORD-00605,2025-02-21 21:00:00,Seattle,Asian,Referral,45.72,30,,,Cancelled
+ORD-00606,2025-01-06 12:00:00,Austin,Mexican,Organic,70.21,50,42.0,5.0,Delivered
+ORD-00607,2025-02-07 23:00:00,Chicago,Mexican,Organic,25.44,40,26.0,4.0,Delivered
+ORD-00608,2025-02-25 12:00:00,Denver,Pizza,Organic,21.59,40,29.0,3.0,Delivered
+ORD-00609,2025-02-26 17:00:00,Denver,Burgers,Organic,110.85,40,30.0,5.0,Delivered
+ORD-00610,2025-04-08 18:00:00,Denver,Burgers,Organic,23.5,40,24.0,4.0,Delivered
+ORD-00611,2025-04-27 02:00:00,Denver,Healthy,Paid social,14.01,40,45.0,4.0,Delivered
+ORD-00612,2025-03-29 13:00:00,Denver,Mexican,Organic,32.75,30,25.0,5.0,Delivered
+ORD-00613,2025-01-10 13:00:00,Denver,Pizza,Paid social,41.73,40,,,Cancelled
+ORD-00614,2025-02-19 00:00:00,Austin,Asian,Referral,70.49,40,,,Cancelled
+ORD-00615,2025-03-29 14:00:00,Seattle,Burgers,Paid social,29.94,40,29.0,4.0,Delivered
+ORD-00616,2025-03-13 08:00:00,Chicago,Burgers,Paid social,29.76,40,33.0,4.0,Delivered
+ORD-00617,2025-02-24 22:00:00,Austin,Burgers,Organic,39.17,50,25.0,5.0,Delivered
+ORD-00618,2025-02-22 08:00:00,Chicago,Healthy,Organic,26.38,40,43.0,5.0,Delivered
+ORD-00619,2025-02-18 17:00:00,Chicago,Pizza,Organic,11.75,30,43.0,4.0,Delivered
+ORD-00620,2025-03-11 11:00:00,Austin,Asian,Referral,14.95,30,42.0,3.0,Delivered
+ORD-00621,2025-01-22 10:00:00,Seattle,Pizza,Paid social,82.4,40,40.0,4.0,Delivered
+ORD-00622,2025-03-04 02:00:00,Austin,Mexican,Organic,61.29,40,36.0,5.0,Delivered
+ORD-00623,2025-01-25 16:00:00,Chicago,Mexican,Organic,38.27,30,,,Cancelled
+ORD-00624,2025-03-23 17:00:00,Chicago,Mexican,Referral,54.83,30,27.0,4.0,Delivered
+ORD-00625,2025-04-14 18:00:00,Seattle,Asian,Paid social,62.45,30,,,Cancelled
+ORD-00626,2025-03-02 22:00:00,Denver,Mexican,Paid social,24.43,40,43.0,3.0,Delivered
+ORD-00627,2025-02-16 12:00:00,Seattle,Burgers,Referral,17.77,40,28.0,5.0,Delivered
+ORD-00628,2025-04-23 20:00:00,Austin,Healthy,Paid social,77.23,30,35.0,5.0,Delivered
+ORD-00629,2025-03-21 03:00:00,Seattle,Mexican,Paid social,5.37,40,32.0,4.0,Delivered
+ORD-00630,2025-02-21 08:00:00,Seattle,Mexican,Organic,55.39,40,24.0,5.0,Delivered
+ORD-00631,2025-01-04 10:00:00,Chicago,Burgers,Organic,43.98,40,,,Cancelled
+ORD-00632,2025-01-02 21:00:00,Denver,Burgers,Referral,72.51,30,31.0,5.0,Delivered
+ORD-00633,2025-01-27 13:00:00,Austin,Healthy,Paid social,56.69,50,25.0,5.0,Delivered
+ORD-00634,2025-01-29 08:00:00,Seattle,Asian,Organic,54.61,50,20.0,5.0,Delivered
+ORD-00635,2025-03-28 13:00:00,Seattle,Mexican,Paid social,19.22,40,19.0,3.0,Delivered
+ORD-00636,2025-03-02 01:00:00,Chicago,Asian,Organic,63.95,30,31.0,4.0,Delivered
+ORD-00637,2025-04-30 23:00:00,Denver,Healthy,Referral,51.1,40,34.0,5.0,Delivered
+ORD-00638,2025-03-06 20:00:00,Chicago,Mexican,Organic,21.21,30,26.0,4.0,Delivered
+ORD-00639,2025-04-19 08:00:00,Austin,Asian,Referral,44.24,50,42.0,5.0,Delivered
+ORD-00640,2025-03-08 06:00:00,Denver,Pizza,Paid social,16.16,30,34.0,5.0,Delivered
+ORD-00641,2025-02-12 23:00:00,Denver,Burgers,Organic,34.7,50,41.0,5.0,Delivered
+ORD-00642,2025-03-27 17:00:00,Seattle,Asian,Organic,138.43,40,33.0,5.0,Delivered
+ORD-00643,2025-02-23 22:00:00,Seattle,Mexican,Referral,18.4,40,27.0,5.0,Delivered
+ORD-00644,2025-02-02 22:00:00,Chicago,Healthy,Organic,11.64,50,36.0,5.0,Delivered
+ORD-00645,2025-02-26 18:00:00,Seattle,Mexican,Organic,15.1,30,22.0,4.0,Delivered
+ORD-00646,2025-03-21 18:00:00,Denver,Mexican,Paid social,34.36,50,40.0,3.0,Delivered
+ORD-00647,2025-02-15 01:00:00,Denver,Healthy,Organic,59.34,30,26.0,4.0,Delivered
+ORD-00648,2025-03-26 11:00:00,Denver,Pizza,Organic,39.97,50,44.0,4.0,Delivered
+ORD-00649,2025-04-28 16:00:00,Seattle,Burgers,Organic,13.12,40,32.0,5.0,Delivered
+ORD-00650,2025-02-19 08:00:00,Denver,Healthy,Referral,58.86,30,46.0,3.0,Delivered
+ORD-00651,2025-02-05 10:00:00,Austin,Asian,Organic,7.46,50,24.0,5.0,Delivered
+ORD-00652,2025-02-18 06:00:00,Austin,Mexican,Organic,14.39,30,28.0,5.0,Delivered
+ORD-00653,2025-04-11 14:00:00,Chicago,Burgers,Organic,25.59,30,39.0,4.0,Delivered
+ORD-00654,2025-01-22 11:00:00,Denver,Mexican,Organic,75.55,50,47.0,5.0,Delivered
+ORD-00655,2025-04-27 20:00:00,Denver,Pizza,Organic,41.05,40,52.0,4.0,Delivered
+ORD-00656,2025-02-19 16:00:00,Chicago,Pizza,Organic,42.14,50,35.0,4.0,Delivered
+ORD-00657,2025-04-11 23:00:00,Denver,Pizza,Organic,13.31,40,53.0,3.0,Delivered
+ORD-00658,2025-04-05 10:00:00,Seattle,Asian,Organic,27.49,40,32.0,4.0,Delivered
+ORD-00659,2025-04-05 00:00:00,Chicago,Asian,Referral,68.81,40,46.0,5.0,Delivered
+ORD-00660,2025-04-20 01:00:00,Chicago,Pizza,Organic,48.99,30,26.0,4.0,Delivered
+ORD-00661,2025-01-23 04:00:00,Denver,Burgers,Organic,60.23,50,39.0,4.0,Delivered
+ORD-00662,2025-03-13 05:00:00,Chicago,Asian,Referral,38.1,30,12.0,4.0,Delivered
+ORD-00663,2025-01-12 21:00:00,Seattle,Burgers,Referral,69.27,40,24.0,4.0,Delivered
+ORD-00664,2025-02-05 22:00:00,Seattle,Pizza,Paid social,13.24,40,40.0,5.0,Delivered
+ORD-00665,2025-01-05 20:00:00,Denver,Burgers,Organic,33.79,40,22.0,5.0,Delivered
+ORD-00666,2025-03-23 20:00:00,Chicago,Asian,Organic,53.82,40,39.0,5.0,Delivered
+ORD-00667,2025-03-14 22:00:00,Denver,Mexican,Organic,9.8,50,44.0,4.0,Delivered
+ORD-00668,2025-03-30 19:00:00,Austin,Asian,Organic,3.0,50,,,Cancelled
+ORD-00669,2025-01-22 03:00:00,Chicago,Burgers,Organic,110.91,50,25.0,5.0,Delivered
+ORD-00670,2025-02-09 20:00:00,Austin,Asian,Paid social,41.43,40,30.0,4.0,Delivered
+ORD-00671,2025-03-23 03:00:00,Austin,Mexican,Organic,8.91,40,25.0,4.0,Delivered
+ORD-00672,2025-04-10 04:00:00,Austin,Healthy,Paid social,40.73,30,34.0,3.0,Delivered
+ORD-00673,2025-04-17 06:00:00,Denver,Pizza,Organic,14.57,40,,,Cancelled
+ORD-00674,2025-01-09 20:00:00,Austin,Burgers,Organic,19.21,40,32.0,5.0,Delivered
+ORD-00675,2025-02-18 07:00:00,Denver,Burgers,Paid social,77.15,40,52.0,4.0,Delivered
+ORD-00676,2025-01-02 06:00:00,Chicago,Asian,Referral,26.05,30,28.0,4.0,Delivered
+ORD-00677,2025-04-09 05:00:00,Chicago,Burgers,Organic,25.9,50,49.0,4.0,Delivered
+ORD-00678,2025-01-15 18:00:00,Seattle,Healthy,Paid social,14.18,50,25.0,4.0,Delivered
+ORD-00679,2025-04-09 15:00:00,Denver,Asian,Organic,30.24,50,36.0,5.0,Delivered
+ORD-00680,2025-01-19 17:00:00,Denver,Healthy,Organic,43.25,30,47.0,3.0,Delivered
+ORD-00681,2025-01-02 20:00:00,Denver,Pizza,Paid social,26.03,50,46.0,4.0,Delivered
+ORD-00682,2025-04-16 11:00:00,Austin,Mexican,Organic,128.71,30,31.0,4.0,Delivered
+ORD-00683,2025-02-22 15:00:00,Austin,Mexican,Organic,17.21,40,41.0,4.0,Delivered
+ORD-00684,2025-02-20 23:00:00,Denver,Pizza,Paid social,17.13,30,39.0,5.0,Delivered
+ORD-00685,2025-03-19 14:00:00,Seattle,Mexican,Organic,29.37,40,30.0,5.0,Delivered
+ORD-00686,2025-02-02 23:00:00,Austin,Mexican,Organic,119.44,40,41.0,4.0,Delivered
+ORD-00687,2025-03-24 21:00:00,Austin,Pizza,Organic,60.86,30,54.0,3.0,Delivered
+ORD-00688,2025-02-21 11:00:00,Seattle,Asian,Referral,25.4,40,,,Cancelled
+ORD-00689,2025-02-02 17:00:00,Seattle,Pizza,Paid social,25.41,40,41.0,4.0,Delivered
+ORD-00690,2025-02-17 09:00:00,Austin,Burgers,Organic,16.68,50,42.0,5.0,Delivered
+ORD-00691,2025-01-01 17:00:00,Chicago,Mexican,Organic,28.75,40,20.0,5.0,Delivered
+ORD-00692,2025-02-06 04:00:00,Denver,Pizza,Paid social,33.14,40,40.0,5.0,Delivered
+ORD-00693,2025-03-12 23:00:00,Austin,Healthy,Organic,59.08,30,25.0,4.0,Delivered
+ORD-00694,2025-01-17 13:00:00,Chicago,Asian,Paid social,51.31,50,29.0,5.0,Delivered
+ORD-00695,2025-01-15 05:00:00,Chicago,Burgers,Paid social,28.07,30,57.0,3.0,Delivered
+ORD-00696,2025-03-20 17:00:00,Denver,Healthy,Organic,93.11,40,32.0,4.0,Delivered
+ORD-00697,2025-02-21 09:00:00,Chicago,Pizza,Organic,22.87,30,28.0,5.0,Delivered
+ORD-00698,2025-01-17 09:00:00,Chicago,Pizza,Organic,11.44,40,47.0,5.0,Delivered
+ORD-00699,2025-03-31 17:00:00,Chicago,Healthy,Organic,44.63,40,26.0,5.0,Delivered
+ORD-00700,2025-04-04 01:00:00,Seattle,Pizza,Organic,73.61,40,31.0,4.0,Delivered
+ORD-00701,2025-01-05 04:00:00,Austin,Healthy,Referral,37.08,40,47.0,4.0,Delivered
+ORD-00702,2025-01-25 04:00:00,Austin,Healthy,Organic,13.7,40,35.0,4.0,Delivered
+ORD-00703,2025-02-14 10:00:00,Austin,Pizza,Paid social,42.23,40,19.0,5.0,Delivered
+ORD-00704,2025-03-29 18:00:00,Seattle,Mexican,Paid social,45.85,30,40.0,4.0,Delivered
+ORD-00705,2025-01-09 21:00:00,Seattle,Healthy,Organic,49.08,40,31.0,5.0,Delivered
+ORD-00706,2025-04-07 16:00:00,Denver,Healthy,Organic,42.8,40,50.0,4.0,Delivered
+ORD-00707,2025-02-08 07:00:00,Austin,Mexican,Organic,79.76,40,29.0,4.0,Delivered
+ORD-00708,2025-01-16 00:00:00,Seattle,Mexican,Paid social,16.36,30,46.0,3.0,Delivered
+ORD-00709,2025-04-14 14:00:00,Chicago,Healthy,Organic,1.65,40,53.0,4.0,Delivered
+ORD-00710,2025-01-11 09:00:00,Seattle,Asian,Paid social,7.47,40,26.0,5.0,Delivered
+ORD-00711,2025-01-16 13:00:00,Chicago,Asian,Referral,13.53,30,,,Cancelled
+ORD-00712,2025-04-24 22:00:00,Seattle,Asian,Paid social,65.71,30,39.0,3.0,Delivered
+ORD-00713,2025-03-04 08:00:00,Seattle,Healthy,Referral,30.23,40,26.0,5.0,Delivered
+ORD-00714,2025-02-25 13:00:00,Austin,Mexican,Paid social,97.68,40,38.0,5.0,Delivered
+ORD-00715,2025-03-24 11:00:00,Denver,Pizza,Referral,15.39,40,33.0,5.0,Delivered
+ORD-00716,2025-03-17 15:00:00,Chicago,Burgers,Referral,96.46,30,33.0,3.0,Delivered
+ORD-00717,2025-03-15 15:00:00,Chicago,Mexican,Paid social,19.38,50,35.0,4.0,Delivered
+ORD-00718,2025-01-03 18:00:00,Chicago,Mexican,Referral,33.1,40,36.0,4.0,Delivered
+ORD-00719,2025-03-08 04:00:00,Denver,Asian,Referral,8.97,40,37.0,3.0,Delivered
+ORD-00720,2025-02-03 10:00:00,Chicago,Burgers,Organic,88.6,50,,,Cancelled
+ORD-00721,2025-04-07 22:00:00,Denver,Burgers,Paid social,36.33,40,29.0,5.0,Delivered
+ORD-00722,2025-03-02 15:00:00,Denver,Pizza,Paid social,132.23,30,34.0,5.0,Delivered
+ORD-00723,2025-01-15 20:00:00,Seattle,Pizza,Referral,75.76,40,35.0,5.0,Delivered
+ORD-00724,2025-04-17 08:00:00,Seattle,Pizza,Organic,32.52,50,,,Cancelled
+ORD-00725,2025-02-04 02:00:00,Austin,Healthy,Referral,21.87,50,38.0,3.0,Delivered
+ORD-00726,2025-02-02 13:00:00,Seattle,Healthy,Paid social,67.58,30,17.0,3.0,Delivered
+ORD-00727,2025-04-23 08:00:00,Austin,Burgers,Referral,39.0,50,28.0,5.0,Delivered
+ORD-00728,2025-04-04 00:00:00,Denver,Mexican,Organic,20.98,40,32.0,5.0,Delivered
+ORD-00729,2025-04-14 03:00:00,Chicago,Asian,Paid social,40.96,30,26.0,4.0,Delivered
+ORD-00730,2025-03-21 11:00:00,Denver,Burgers,Paid social,6.32,40,51.0,4.0,Delivered
+ORD-00731,2025-04-20 06:00:00,Denver,Asian,Referral,49.7,40,35.0,4.0,Delivered
+ORD-00732,2025-01-14 19:00:00,Seattle,Healthy,Referral,56.06,40,37.0,5.0,Delivered
+ORD-00733,2025-03-13 23:00:00,Chicago,Burgers,Paid social,14.94,50,30.0,5.0,Delivered
+ORD-00734,2025-02-05 04:00:00,Seattle,Asian,Paid social,81.11,40,35.0,4.0,Delivered
+ORD-00735,2025-02-17 19:00:00,Chicago,Burgers,Organic,70.57,40,23.0,4.0,Delivered
+ORD-00736,2025-01-29 13:00:00,Austin,Pizza,Referral,46.74,40,33.0,5.0,Delivered
+ORD-00737,2025-01-25 14:00:00,Chicago,Healthy,Organic,18.27,30,26.0,5.0,Delivered
+ORD-00738,2025-02-23 02:00:00,Denver,Pizza,Paid social,58.25,40,32.0,5.0,Delivered
+ORD-00739,2025-04-21 04:00:00,Denver,Pizza,Paid social,29.05,50,10.0,4.0,Delivered
+ORD-00740,2025-03-18 05:00:00,Seattle,Pizza,Organic,43.53,40,24.0,5.0,Delivered
+ORD-00741,2025-02-11 22:00:00,Austin,Burgers,Organic,61.87,30,50.0,3.0,Delivered
+ORD-00742,2025-02-22 00:00:00,Chicago,Pizza,Organic,11.62,40,43.0,5.0,Delivered
+ORD-00743,2025-03-05 13:00:00,Seattle,Pizza,Referral,8.61,50,48.0,5.0,Delivered
+ORD-00744,2025-01-30 08:00:00,Chicago,Pizza,Paid social,27.0,50,49.0,4.0,Delivered
+ORD-00745,2025-03-04 13:00:00,Austin,Burgers,Organic,118.64,40,42.0,4.0,Delivered
+ORD-00746,2025-03-25 12:00:00,Seattle,Burgers,Paid social,135.61,40,30.0,4.0,Delivered
+ORD-00747,2025-01-30 04:00:00,Chicago,Healthy,Organic,48.96,40,25.0,5.0,Delivered
+ORD-00748,2025-03-12 03:00:00,Seattle,Pizza,Referral,71.82,50,46.0,4.0,Delivered
+ORD-00749,2025-03-27 00:00:00,Seattle,Pizza,Organic,37.39,50,36.0,4.0,Delivered
+ORD-00750,2025-03-04 07:00:00,Seattle,Healthy,Organic,40.99,50,60.0,3.0,Delivered
+ORD-00751,2025-02-05 00:00:00,Denver,Asian,Organic,33.07,40,31.0,3.0,Delivered
+ORD-00752,2025-03-08 12:00:00,Seattle,Healthy,Paid social,77.38,30,55.0,3.0,Delivered
+ORD-00753,2025-04-06 04:00:00,Seattle,Mexican,Organic,98.37,40,33.0,4.0,Delivered
+ORD-00754,2025-01-27 15:00:00,Chicago,Healthy,Paid social,40.33,30,48.0,3.0,Delivered
+ORD-00755,2025-03-10 23:00:00,Austin,Burgers,Organic,40.87,30,52.0,3.0,Delivered
+ORD-00756,2025-03-23 15:00:00,Chicago,Burgers,Organic,34.29,40,25.0,5.0,Delivered
+ORD-00757,2025-02-08 13:00:00,Denver,Asian,Organic,99.91,40,30.0,5.0,Delivered
+ORD-00758,2025-02-16 12:00:00,Denver,Burgers,Organic,66.21,50,,,Cancelled
+ORD-00759,2025-04-17 15:00:00,Austin,Mexican,Referral,17.93,50,23.0,5.0,Delivered
+ORD-00760,2025-02-13 14:00:00,Denver,Burgers,Organic,116.43,50,42.0,3.0,Delivered
+ORD-00761,2025-03-13 18:00:00,Austin,Pizza,Referral,3.96,50,33.0,4.0,Delivered
+ORD-00762,2025-01-18 23:00:00,Denver,Asian,Organic,93.8,40,36.0,5.0,Delivered
+ORD-00763,2025-04-22 02:00:00,Denver,Healthy,Organic,73.49,30,41.0,5.0,Delivered
+ORD-00764,2025-03-13 14:00:00,Denver,Healthy,Organic,40.42,40,16.0,5.0,Delivered
+ORD-00765,2025-04-02 05:00:00,Chicago,Pizza,Organic,39.74,30,48.0,2.0,Delivered
+ORD-00766,2025-03-14 07:00:00,Chicago,Pizza,Paid social,35.52,30,32.0,4.0,Delivered
+ORD-00767,2025-02-12 15:00:00,Denver,Healthy,Paid social,18.63,30,40.0,3.0,Delivered
+ORD-00768,2025-02-10 20:00:00,Denver,Mexican,Organic,110.79,50,41.0,5.0,Delivered
+ORD-00769,2025-03-26 03:00:00,Seattle,Mexican,Paid social,38.93,40,49.0,5.0,Delivered
+ORD-00770,2025-04-14 04:00:00,Chicago,Healthy,Paid social,18.36,50,34.0,5.0,Delivered
+ORD-00771,2025-01-16 07:00:00,Chicago,Asian,Referral,106.67,50,14.0,5.0,Delivered
+ORD-00772,2025-04-12 10:00:00,Chicago,Healthy,Referral,52.63,50,36.0,5.0,Delivered
+ORD-00773,2025-04-10 14:00:00,Denver,Burgers,Paid social,54.72,30,37.0,5.0,Delivered
+ORD-00774,2025-01-14 02:00:00,Austin,Healthy,Referral,121.64,50,25.0,5.0,Delivered
+ORD-00775,2025-01-13 23:00:00,Chicago,Mexican,Paid social,59.69,50,36.0,5.0,Delivered
+ORD-00776,2025-03-25 09:00:00,Austin,Burgers,Paid social,24.53,50,31.0,4.0,Delivered
+ORD-00777,2025-04-12 03:00:00,Denver,Burgers,Paid social,59.63,30,22.0,5.0,Delivered
+ORD-00778,2025-02-17 06:00:00,Seattle,Pizza,Organic,20.0,30,42.0,4.0,Delivered
+ORD-00779,2025-03-18 21:00:00,Seattle,Burgers,Paid social,28.12,50,29.0,4.0,Delivered
+ORD-00780,2025-04-30 23:00:00,Chicago,Asian,Referral,47.91,30,31.0,4.0,Delivered
+ORD-00781,2025-02-08 17:00:00,Austin,Mexican,Organic,71.13,40,30.0,5.0,Delivered
+ORD-00782,2025-01-28 00:00:00,Austin,Mexican,Referral,25.61,40,47.0,5.0,Delivered
+ORD-00783,2025-04-29 23:00:00,Austin,Pizza,Referral,34.8,30,35.0,4.0,Delivered
+ORD-00784,2025-02-03 15:00:00,Seattle,Mexican,Organic,34.54,30,36.0,4.0,Delivered
+ORD-00785,2025-02-26 17:00:00,Seattle,Pizza,Paid social,79.01,50,,,Cancelled
+ORD-00786,2025-02-23 01:00:00,Denver,Healthy,Referral,39.71,50,40.0,5.0,Delivered
+ORD-00787,2025-03-04 18:00:00,Austin,Burgers,Referral,115.48,50,48.0,5.0,Delivered
+ORD-00788,2025-02-02 05:00:00,Austin,Pizza,Organic,28.11,40,41.0,4.0,Delivered
+ORD-00789,2025-03-23 11:00:00,Seattle,Burgers,Organic,26.46,30,42.0,5.0,Delivered
+ORD-00790,2025-03-25 00:00:00,Chicago,Burgers,Paid social,92.74,40,41.0,5.0,Delivered
+ORD-00791,2025-01-25 01:00:00,Austin,Pizza,Organic,56.53,40,21.0,5.0,Delivered
+ORD-00792,2025-02-27 17:00:00,Austin,Pizza,Organic,157.41,30,26.0,5.0,Delivered
+ORD-00793,2025-01-07 21:00:00,Chicago,Burgers,Organic,90.6,50,33.0,4.0,Delivered
+ORD-00794,2025-01-27 12:00:00,Denver,Mexican,Organic,14.49,50,28.0,5.0,Delivered
+ORD-00795,2025-04-29 11:00:00,Seattle,Pizza,Paid social,39.07,40,24.0,4.0,Delivered
+ORD-00796,2025-03-02 18:00:00,Chicago,Mexican,Paid social,47.87,40,16.0,4.0,Delivered
+ORD-00797,2025-03-16 17:00:00,Denver,Asian,Paid social,45.66,40,22.0,4.0,Delivered
+ORD-00798,2025-04-17 15:00:00,Austin,Mexican,Paid social,35.2,30,32.0,5.0,Delivered
+ORD-00799,2025-03-27 15:00:00,Austin,Asian,Organic,45.05,40,34.0,5.0,Delivered
+ORD-00800,2025-04-06 02:00:00,Austin,Pizza,Organic,46.66,40,27.0,4.0,Delivered
+ORD-00801,2025-03-27 10:00:00,Seattle,Asian,Organic,25.92,40,36.0,5.0,Delivered
+ORD-00802,2025-03-01 20:00:00,Denver,Pizza,Organic,77.01,40,31.0,5.0,Delivered
+ORD-00803,2025-03-17 21:00:00,Seattle,Asian,Organic,107.45,50,46.0,4.0,Delivered
+ORD-00804,2025-02-04 14:00:00,Austin,Healthy,Organic,62.92,30,33.0,4.0,Delivered
+ORD-00805,2025-04-17 20:00:00,Austin,Burgers,Organic,51.53,30,42.0,4.0,Delivered
+ORD-00806,2025-01-22 14:00:00,Seattle,Pizza,Organic,37.37,30,37.0,3.0,Delivered
+ORD-00807,2025-04-17 02:00:00,Austin,Burgers,Paid social,47.61,30,21.0,5.0,Delivered
+ORD-00808,2025-04-16 09:00:00,Austin,Mexican,Paid social,50.83,40,34.0,3.0,Delivered
+ORD-00809,2025-01-18 01:00:00,Denver,Asian,Referral,18.68,50,23.0,5.0,Delivered
+ORD-00810,2025-03-27 05:00:00,Denver,Healthy,Paid social,74.64,50,,,Cancelled
+ORD-00811,2025-04-29 18:00:00,Austin,Pizza,Paid social,29.51,40,28.0,4.0,Delivered
+ORD-00812,2025-03-10 15:00:00,Chicago,Pizza,Organic,95.81,40,39.0,5.0,Delivered
+ORD-00813,2025-02-10 20:00:00,Denver,Burgers,Paid social,44.05,30,,,Cancelled
+ORD-00814,2025-04-16 12:00:00,Chicago,Burgers,Organic,75.46,40,35.0,4.0,Delivered
+ORD-00815,2025-03-03 12:00:00,Chicago,Healthy,Organic,62.33,40,41.0,3.0,Delivered
+ORD-00816,2025-01-15 14:00:00,Austin,Healthy,Organic,14.65,50,44.0,5.0,Delivered
+ORD-00817,2025-01-30 21:00:00,Chicago,Healthy,Organic,90.56,40,27.0,4.0,Delivered
+ORD-00818,2025-03-23 21:00:00,Seattle,Asian,Organic,22.72,30,35.0,3.0,Delivered
+ORD-00819,2025-02-24 15:00:00,Denver,Mexican,Paid social,28.1,40,37.0,5.0,Delivered
+ORD-00820,2025-01-27 00:00:00,Seattle,Burgers,Referral,29.93,30,50.0,2.0,Delivered
+ORD-00821,2025-04-06 21:00:00,Austin,Burgers,Paid social,10.4,50,20.0,4.0,Delivered
+ORD-00822,2025-01-15 11:00:00,Austin,Pizza,Paid social,45.43,30,26.0,4.0,Delivered
+ORD-00823,2025-01-27 06:00:00,Denver,Mexican,Paid social,78.43,30,63.0,2.0,Delivered
+ORD-00824,2025-02-25 20:00:00,Austin,Burgers,Organic,94.37,30,32.0,5.0,Delivered
+ORD-00825,2025-01-05 17:00:00,Denver,Pizza,Paid social,35.19,50,16.0,5.0,Delivered
+ORD-00826,2025-02-16 11:00:00,Seattle,Burgers,Paid social,39.48,40,29.0,4.0,Delivered
+ORD-00827,2025-04-20 04:00:00,Chicago,Healthy,Organic,65.08,40,10.0,3.0,Delivered
+ORD-00828,2025-04-23 22:00:00,Denver,Burgers,Organic,35.88,40,37.0,5.0,Delivered
+ORD-00829,2025-04-15 15:00:00,Denver,Asian,Referral,82.85,30,43.0,5.0,Delivered
+ORD-00830,2025-02-08 21:00:00,Austin,Healthy,Paid social,38.16,50,26.0,5.0,Delivered
+ORD-00831,2025-01-08 18:00:00,Seattle,Healthy,Organic,20.41,30,30.0,5.0,Delivered
+ORD-00832,2025-04-08 18:00:00,Austin,Pizza,Paid social,46.22,30,44.0,3.0,Delivered
+ORD-00833,2025-02-14 19:00:00,Seattle,Burgers,Organic,12.25,40,17.0,4.0,Delivered
+ORD-00834,2025-03-31 20:00:00,Denver,Pizza,Organic,45.81,30,22.0,5.0,Delivered
+ORD-00835,2025-01-15 07:00:00,Austin,Mexican,Organic,51.66,30,33.0,3.0,Delivered
+ORD-00836,2025-03-22 03:00:00,Denver,Asian,Organic,22.8,50,27.0,4.0,Delivered
+ORD-00837,2025-03-12 08:00:00,Austin,Mexican,Paid social,50.34,40,32.0,5.0,Delivered
+ORD-00838,2025-04-21 10:00:00,Denver,Healthy,Organic,32.92,30,,,Cancelled
+ORD-00839,2025-01-13 05:00:00,Seattle,Burgers,Paid social,22.09,40,37.0,4.0,Delivered
+ORD-00840,2025-02-18 22:00:00,Seattle,Healthy,Organic,10.81,40,34.0,4.0,Delivered
+ORD-00841,2025-04-29 19:00:00,Seattle,Burgers,Paid social,13.46,30,40.0,5.0,Delivered
+ORD-00842,2025-02-16 18:00:00,Chicago,Mexican,Paid social,101.84,30,37.0,4.0,Delivered
+ORD-00843,2025-03-20 23:00:00,Denver,Healthy,Paid social,31.98,40,37.0,4.0,Delivered
+ORD-00844,2025-01-20 07:00:00,Chicago,Healthy,Paid social,50.84,40,21.0,4.0,Delivered
+ORD-00845,2025-03-29 09:00:00,Seattle,Burgers,Referral,34.99,50,40.0,5.0,Delivered
+ORD-00846,2025-02-03 02:00:00,Chicago,Burgers,Paid social,103.39,40,32.0,5.0,Delivered
+ORD-00847,2025-03-10 15:00:00,Seattle,Healthy,Paid social,22.17,30,33.0,5.0,Delivered
+ORD-00848,2025-04-16 13:00:00,Chicago,Healthy,Paid social,41.8,40,45.0,5.0,Delivered
+ORD-00849,2025-03-21 07:00:00,Denver,Burgers,Organic,27.96,40,28.0,4.0,Delivered
+ORD-00850,2025-02-26 22:00:00,Austin,Healthy,Organic,74.94,30,,,Cancelled
+ORD-00851,2025-01-23 19:00:00,Denver,Burgers,Organic,50.49,40,49.0,3.0,Delivered
+ORD-00852,2025-02-10 23:00:00,Austin,Healthy,Organic,40.77,30,43.0,5.0,Delivered
+ORD-00853,2025-04-12 21:00:00,Austin,Asian,Organic,15.02,50,25.0,5.0,Delivered
+ORD-00854,2025-01-26 22:00:00,Chicago,Healthy,Organic,131.82,50,13.0,3.0,Delivered
+ORD-00855,2025-03-20 18:00:00,Chicago,Mexican,Paid social,35.7,40,46.0,4.0,Delivered
+ORD-00856,2025-02-28 04:00:00,Denver,Pizza,Organic,19.43,50,36.0,5.0,Delivered
+ORD-00857,2025-02-08 12:00:00,Chicago,Mexican,Referral,10.86,50,28.0,4.0,Delivered
+ORD-00858,2025-03-27 23:00:00,Austin,Mexican,Organic,13.08,30,47.0,3.0,Delivered
+ORD-00859,2025-02-13 10:00:00,Chicago,Asian,Paid social,40.5,40,26.0,4.0,Delivered
+ORD-00860,2025-02-04 09:00:00,Chicago,Burgers,Organic,75.68,40,31.0,4.0,Delivered
+ORD-00861,2025-03-05 12:00:00,Denver,Mexican,Organic,48.32,30,40.0,3.0,Delivered
+ORD-00862,2025-04-01 22:00:00,Denver,Pizza,Organic,11.42,40,24.0,4.0,Delivered
+ORD-00863,2025-04-14 16:00:00,Austin,Healthy,Paid social,40.44,40,34.0,5.0,Delivered
+ORD-00864,2025-03-17 13:00:00,Denver,Pizza,Organic,90.08,50,46.0,4.0,Delivered
+ORD-00865,2025-03-21 10:00:00,Denver,Burgers,Referral,31.2,40,37.0,5.0,Delivered
+ORD-00866,2025-04-05 12:00:00,Seattle,Asian,Organic,48.41,50,47.0,5.0,Delivered
+ORD-00867,2025-02-02 07:00:00,Denver,Asian,Paid social,32.18,40,46.0,5.0,Delivered
+ORD-00868,2025-01-31 02:00:00,Seattle,Healthy,Organic,55.52,30,35.0,4.0,Delivered
+ORD-00869,2025-02-28 01:00:00,Austin,Mexican,Paid social,21.91,50,12.0,4.0,Delivered
+ORD-00870,2025-03-17 17:00:00,Denver,Burgers,Organic,1.22,30,24.0,5.0,Delivered
+ORD-00871,2025-03-19 12:00:00,Austin,Mexican,Organic,15.76,30,43.0,3.0,Delivered
+ORD-00872,2025-01-19 10:00:00,Austin,Mexican,Organic,28.45,40,19.0,4.0,Delivered
+ORD-00873,2025-04-04 16:00:00,Seattle,Burgers,Organic,37.73,40,,,Cancelled
+ORD-00874,2025-02-13 15:00:00,Chicago,Burgers,Organic,29.27,40,38.0,5.0,Delivered
+ORD-00875,2025-04-16 06:00:00,Denver,Mexican,Referral,28.85,30,50.0,2.0,Delivered
+ORD-00876,2025-03-28 22:00:00,Denver,Mexican,Organic,76.08,40,29.0,5.0,Delivered
+ORD-00877,2025-04-28 22:00:00,Denver,Asian,Organic,17.89,30,29.0,5.0,Delivered
+ORD-00878,2025-03-17 19:00:00,Austin,Burgers,Referral,40.63,30,34.0,5.0,Delivered
+ORD-00879,2025-03-05 07:00:00,Austin,Healthy,Organic,12.08,40,39.0,5.0,Delivered
+ORD-00880,2025-01-23 13:00:00,Austin,Healthy,Organic,62.95,30,33.0,5.0,Delivered
+ORD-00881,2025-02-17 20:00:00,Seattle,Asian,Paid social,47.5,40,45.0,4.0,Delivered
+ORD-00882,2025-04-14 00:00:00,Austin,Pizza,Referral,130.26,40,27.0,4.0,Delivered
+ORD-00883,2025-02-15 20:00:00,Denver,Burgers,Paid social,17.34,40,,,Cancelled
+ORD-00884,2025-01-07 09:00:00,Chicago,Burgers,Organic,106.46,40,39.0,5.0,Delivered
+ORD-00885,2025-01-30 09:00:00,Austin,Asian,Referral,19.27,40,31.0,4.0,Delivered
+ORD-00886,2025-03-13 10:00:00,Chicago,Pizza,Organic,31.03,30,43.0,3.0,Delivered
+ORD-00887,2025-03-17 11:00:00,Austin,Burgers,Referral,13.87,50,36.0,5.0,Delivered
+ORD-00888,2025-04-29 01:00:00,Austin,Pizza,Referral,129.23,30,43.0,5.0,Delivered
+ORD-00889,2025-04-23 01:00:00,Austin,Healthy,Referral,52.32,30,37.0,4.0,Delivered
+ORD-00890,2025-03-05 18:00:00,Seattle,Pizza,Organic,52.69,40,39.0,5.0,Delivered
+ORD-00891,2025-03-08 12:00:00,Denver,Asian,Organic,20.69,30,29.0,3.0,Delivered
+ORD-00892,2025-04-07 01:00:00,Seattle,Asian,Paid social,4.47,30,,,Cancelled
+ORD-00893,2025-01-06 20:00:00,Chicago,Pizza,Paid social,30.13,30,47.0,3.0,Delivered
+ORD-00894,2025-03-13 10:00:00,Austin,Pizza,Paid social,26.15,40,41.0,3.0,Delivered
+ORD-00895,2025-02-26 21:00:00,Denver,Healthy,Referral,7.9,40,25.0,5.0,Delivered
+ORD-00896,2025-04-04 23:00:00,Seattle,Asian,Paid social,31.58,40,37.0,4.0,Delivered
+ORD-00897,2025-04-07 01:00:00,Denver,Pizza,Organic,40.68,50,11.0,4.0,Delivered
+ORD-00898,2025-03-20 16:00:00,Austin,Burgers,Organic,54.66,40,29.0,5.0,Delivered
+ORD-00899,2025-03-20 20:00:00,Chicago,Pizza,Organic,5.22,50,45.0,5.0,Delivered
+ORD-00900,2025-03-24 22:00:00,Seattle,Pizza,Organic,14.6,40,34.0,4.0,Delivered
+ORD-00901,2025-03-11 14:00:00,Denver,Pizza,Organic,21.27,50,36.0,5.0,Delivered
+ORD-00902,2025-01-28 08:00:00,Seattle,Mexican,Referral,78.19,40,10.0,5.0,Delivered
+ORD-00903,2025-02-04 03:00:00,Denver,Mexican,Paid social,77.26,40,31.0,4.0,Delivered
+ORD-00904,2025-03-31 00:00:00,Austin,Healthy,Paid social,50.47,40,38.0,4.0,Delivered
+ORD-00905,2025-03-16 04:00:00,Seattle,Asian,Organic,31.18,40,,,Cancelled
+ORD-00906,2025-01-29 13:00:00,Seattle,Burgers,Paid social,81.24,30,45.0,4.0,Delivered
+ORD-00907,2025-04-16 08:00:00,Denver,Mexican,Referral,46.45,40,33.0,5.0,Delivered
+ORD-00908,2025-04-28 16:00:00,Seattle,Pizza,Referral,78.42,30,33.0,5.0,Delivered
+ORD-00909,2025-03-17 03:00:00,Austin,Healthy,Paid social,52.0,30,22.0,5.0,Delivered
+ORD-00910,2025-01-28 08:00:00,Seattle,Mexican,Referral,9.02,50,33.0,4.0,Delivered
+ORD-00911,2025-04-23 14:00:00,Austin,Asian,Paid social,4.39,40,22.0,5.0,Delivered
+ORD-00912,2025-01-29 09:00:00,Seattle,Healthy,Organic,28.94,40,17.0,5.0,Delivered
+ORD-00913,2025-02-21 21:00:00,Austin,Healthy,Referral,67.91,40,24.0,4.0,Delivered
+ORD-00914,2025-04-14 00:00:00,Denver,Pizza,Organic,25.89,40,,,Cancelled
+ORD-00915,2025-03-04 11:00:00,Seattle,Burgers,Organic,91.12,50,,,Cancelled
+ORD-00916,2025-01-30 03:00:00,Austin,Burgers,Organic,64.04,40,,,Cancelled
+ORD-00917,2025-01-10 14:00:00,Austin,Burgers,Paid social,86.16,40,30.0,4.0,Delivered
+ORD-00918,2025-02-13 07:00:00,Seattle,Asian,Paid social,29.53,40,17.0,4.0,Delivered
+ORD-00919,2025-03-22 15:00:00,Austin,Healthy,Paid social,18.39,40,44.0,5.0,Delivered
+ORD-00920,2025-03-27 18:00:00,Denver,Mexican,Organic,16.25,40,13.0,4.0,Delivered
+ORD-00921,2025-01-27 18:00:00,Seattle,Pizza,Organic,55.25,50,29.0,4.0,Delivered
+ORD-00922,2025-01-20 01:00:00,Denver,Pizza,Referral,9.8,40,34.0,4.0,Delivered
+ORD-00923,2025-03-26 04:00:00,Chicago,Asian,Organic,10.41,40,37.0,5.0,Delivered
+ORD-00924,2025-01-20 02:00:00,Chicago,Burgers,Referral,24.76,40,28.0,5.0,Delivered
+ORD-00925,2025-01-08 17:00:00,Denver,Burgers,Organic,45.29,40,17.0,3.0,Delivered
+ORD-00926,2025-02-28 08:00:00,Denver,Burgers,Paid social,21.54,50,27.0,5.0,Delivered
+ORD-00927,2025-03-10 12:00:00,Denver,Pizza,Paid social,77.36,40,28.0,5.0,Delivered
+ORD-00928,2025-01-30 05:00:00,Austin,Asian,Referral,86.93,40,27.0,4.0,Delivered
+ORD-00929,2025-01-26 08:00:00,Denver,Asian,Organic,2.53,40,45.0,2.0,Delivered
+ORD-00930,2025-01-29 06:00:00,Denver,Pizza,Referral,52.66,40,23.0,5.0,Delivered
+ORD-00931,2025-02-11 03:00:00,Denver,Pizza,Paid social,25.99,30,38.0,5.0,Delivered
+ORD-00932,2025-01-02 02:00:00,Austin,Burgers,Paid social,69.88,40,37.0,5.0,Delivered
+ORD-00933,2025-01-02 09:00:00,Denver,Burgers,Paid social,53.84,50,45.0,4.0,Delivered
+ORD-00934,2025-02-14 10:00:00,Denver,Healthy,Organic,43.86,40,34.0,5.0,Delivered
+ORD-00935,2025-01-03 09:00:00,Austin,Healthy,Paid social,35.66,30,43.0,2.0,Delivered
+ORD-00936,2025-02-08 04:00:00,Seattle,Pizza,Organic,10.46,40,33.0,4.0,Delivered
+ORD-00937,2025-03-11 17:00:00,Denver,Healthy,Organic,141.84,40,,,Cancelled
+ORD-00938,2025-01-04 17:00:00,Chicago,Asian,Paid social,14.46,40,20.0,4.0,Delivered
+ORD-00939,2025-03-16 03:00:00,Denver,Healthy,Paid social,107.18,40,10.0,5.0,Delivered
+ORD-00940,2025-03-16 13:00:00,Denver,Healthy,Organic,60.72,40,39.0,5.0,Delivered
+ORD-00941,2025-03-10 19:00:00,Denver,Healthy,Organic,26.98,50,39.0,5.0,Delivered
+ORD-00942,2025-03-17 04:00:00,Chicago,Healthy,Organic,24.03,30,40.0,3.0,Delivered
+ORD-00943,2025-04-08 02:00:00,Seattle,Pizza,Organic,10.05,30,30.0,5.0,Delivered
+ORD-00944,2025-01-09 11:00:00,Seattle,Pizza,Paid social,40.05,40,50.0,4.0,Delivered
+ORD-00945,2025-01-21 06:00:00,Austin,Burgers,Organic,9.66,30,30.0,3.0,Delivered
+ORD-00946,2025-02-08 01:00:00,Denver,Burgers,Referral,80.16,40,39.0,3.0,Delivered
+ORD-00947,2025-03-24 13:00:00,Austin,Mexican,Organic,46.85,50,41.0,5.0,Delivered
+ORD-00948,2025-04-15 17:00:00,Chicago,Healthy,Organic,38.24,30,52.0,3.0,Delivered
+ORD-00949,2025-04-21 05:00:00,Seattle,Healthy,Referral,41.71,40,32.0,4.0,Delivered
+ORD-00950,2025-03-11 20:00:00,Austin,Asian,Organic,48.13,50,28.0,4.0,Delivered
+ORD-00951,2025-02-19 05:00:00,Chicago,Burgers,Organic,30.62,40,20.0,5.0,Delivered
+ORD-00952,2025-02-19 10:00:00,Austin,Mexican,Referral,33.66,40,51.0,4.0,Delivered
+ORD-00953,2025-01-08 04:00:00,Denver,Pizza,Referral,114.3,40,39.0,4.0,Delivered
+ORD-00954,2025-02-25 19:00:00,Chicago,Mexican,Paid social,75.2,30,40.0,5.0,Delivered
+ORD-00955,2025-03-03 12:00:00,Denver,Burgers,Organic,59.05,30,,,Cancelled
+ORD-00956,2025-01-25 23:00:00,Seattle,Asian,Paid social,26.98,40,38.0,5.0,Delivered
+ORD-00957,2025-04-03 03:00:00,Denver,Asian,Referral,6.62,40,22.0,4.0,Delivered
+ORD-00958,2025-04-08 10:00:00,Denver,Burgers,Referral,54.67,40,33.0,4.0,Delivered
+ORD-00959,2025-02-06 05:00:00,Austin,Healthy,Organic,41.63,30,25.0,5.0,Delivered
+ORD-00960,2025-04-20 16:00:00,Austin,Pizza,Organic,33.13,50,31.0,4.0,Delivered
+ORD-00961,2025-01-13 20:00:00,Seattle,Pizza,Organic,36.97,30,31.0,5.0,Delivered
+ORD-00962,2025-04-20 06:00:00,Seattle,Asian,Organic,15.2,40,29.0,4.0,Delivered
+ORD-00963,2025-04-03 04:00:00,Denver,Mexican,Paid social,19.12,40,21.0,5.0,Delivered
+ORD-00964,2025-01-27 20:00:00,Chicago,Burgers,Organic,75.3,40,51.0,3.0,Delivered
+ORD-00965,2025-03-20 00:00:00,Austin,Asian,Organic,4.91,30,,,Cancelled
+ORD-00966,2025-02-07 06:00:00,Seattle,Healthy,Organic,68.6,30,33.0,4.0,Delivered
+ORD-00967,2025-04-06 23:00:00,Seattle,Asian,Paid social,93.66,40,,,Cancelled
+ORD-00968,2025-01-20 06:00:00,Austin,Burgers,Organic,53.92,40,40.0,5.0,Delivered
+ORD-00969,2025-01-30 09:00:00,Denver,Healthy,Organic,52.19,30,38.0,4.0,Delivered
+ORD-00970,2025-02-06 20:00:00,Denver,Burgers,Organic,18.98,40,42.0,5.0,Delivered
+ORD-00971,2025-01-24 23:00:00,Chicago,Healthy,Referral,21.33,40,36.0,3.0,Delivered
+ORD-00972,2025-02-09 22:00:00,Seattle,Healthy,Organic,28.67,30,42.0,3.0,Delivered
+ORD-00973,2025-03-14 07:00:00,Austin,Mexican,Paid social,12.6,40,43.0,5.0,Delivered
+ORD-00974,2025-03-17 23:00:00,Chicago,Asian,Organic,20.1,30,37.0,4.0,Delivered
+ORD-00975,2025-03-08 11:00:00,Austin,Asian,Organic,41.52,40,33.0,3.0,Delivered
+ORD-00976,2025-01-23 18:00:00,Denver,Healthy,Organic,27.39,30,50.0,3.0,Delivered
+ORD-00977,2025-01-25 07:00:00,Denver,Burgers,Organic,44.04,40,30.0,5.0,Delivered
+ORD-00978,2025-04-21 07:00:00,Seattle,Mexican,Organic,75.12,40,39.0,5.0,Delivered
+ORD-00979,2025-01-31 03:00:00,Denver,Asian,Paid social,43.81,40,39.0,4.0,Delivered
+ORD-00980,2025-01-13 08:00:00,Austin,Healthy,Paid social,52.57,40,29.0,3.0,Delivered
+ORD-00981,2025-02-24 11:00:00,Chicago,Pizza,Organic,9.5,50,,,Cancelled
+ORD-00982,2025-01-01 19:00:00,Austin,Asian,Organic,74.27,40,31.0,4.0,Delivered
+ORD-00983,2025-02-11 02:00:00,Denver,Burgers,Paid social,9.26,50,30.0,4.0,Delivered
+ORD-00984,2025-04-13 14:00:00,Denver,Pizza,Organic,25.98,30,20.0,5.0,Delivered
+ORD-00985,2025-02-02 02:00:00,Seattle,Healthy,Organic,15.85,40,28.0,3.0,Delivered
+ORD-00986,2025-03-26 10:00:00,Chicago,Asian,Organic,6.66,30,,,Cancelled
+ORD-00987,2025-02-28 18:00:00,Chicago,Burgers,Organic,42.27,40,48.0,4.0,Delivered
+ORD-00988,2025-02-12 15:00:00,Austin,Mexican,Organic,55.59,40,41.0,5.0,Delivered
+ORD-00989,2025-03-21 09:00:00,Chicago,Pizza,Referral,95.17,50,10.0,5.0,Delivered
+ORD-00990,2025-03-13 11:00:00,Chicago,Burgers,Referral,46.46,40,41.0,5.0,Delivered
+ORD-00991,2025-02-08 04:00:00,Seattle,Healthy,Referral,20.0,40,29.0,3.0,Delivered
+ORD-00992,2025-01-27 19:00:00,Seattle,Mexican,Organic,26.91,30,40.0,3.0,Delivered
+ORD-00993,2025-04-21 00:00:00,Austin,Asian,Organic,7.74,30,35.0,5.0,Delivered
+ORD-00994,2025-01-21 04:00:00,Chicago,Burgers,Organic,29.07,50,33.0,5.0,Delivered
+ORD-00995,2025-04-26 03:00:00,Denver,Mexican,Organic,37.85,30,,,Cancelled
+ORD-00996,2025-02-26 12:00:00,Chicago,Asian,Organic,54.05,30,35.0,4.0,Delivered
+ORD-00997,2025-04-30 14:00:00,Austin,Mexican,Organic,63.81,50,48.0,4.0,Delivered
+ORD-00998,2025-02-12 09:00:00,Seattle,Healthy,Organic,52.89,50,35.0,5.0,Delivered
+ORD-00999,2025-03-09 20:00:00,Denver,Pizza,Organic,18.33,40,,,Cancelled
+ORD-01000,2025-03-15 19:00:00,Denver,Asian,Organic,14.29,40,44.0,3.0,Delivered
+ORD-01001,2025-02-10 15:00:00,Chicago,Pizza,Paid social,60.87,50,42.0,5.0,Delivered
+ORD-01002,2025-01-27 04:00:00,Seattle,Burgers,Organic,6.42,30,17.0,5.0,Delivered
+ORD-01003,2025-03-04 10:00:00,Austin,Asian,Referral,124.03,40,46.0,4.0,Delivered
+ORD-01004,2025-03-21 13:00:00,Chicago,Mexican,Organic,21.51,40,30.0,4.0,Delivered
+ORD-01005,2025-02-01 08:00:00,Seattle,Healthy,Paid social,80.85,50,42.0,3.0,Delivered
+ORD-01006,2025-04-03 00:00:00,Seattle,Pizza,Organic,24.66,50,25.0,3.0,Delivered
+ORD-01007,2025-03-18 15:00:00,Chicago,Asian,Paid social,56.46,40,,,Cancelled
+ORD-01008,2025-01-20 23:00:00,Denver,Asian,Organic,14.73,30,55.0,4.0,Delivered
+ORD-01009,2025-04-23 15:00:00,Austin,Healthy,Organic,39.45,40,25.0,4.0,Delivered
+ORD-01010,2025-01-06 06:00:00,Austin,Pizza,Paid social,8.27,30,46.0,3.0,Delivered
+ORD-01011,2025-03-20 10:00:00,Chicago,Healthy,Organic,48.14,50,36.0,5.0,Delivered
+ORD-01012,2025-02-22 18:00:00,Seattle,Mexican,Organic,14.51,30,31.0,5.0,Delivered
+ORD-01013,2025-03-20 10:00:00,Denver,Pizza,Referral,16.52,30,35.0,4.0,Delivered
+ORD-01014,2025-04-03 21:00:00,Chicago,Pizza,Organic,27.98,40,,,Cancelled
+ORD-01015,2025-03-24 11:00:00,Chicago,Healthy,Paid social,32.35,40,35.0,4.0,Delivered
+ORD-01016,2025-03-20 02:00:00,Austin,Mexican,Paid social,54.11,50,24.0,5.0,Delivered
+ORD-01017,2025-04-11 21:00:00,Chicago,Healthy,Organic,50.59,30,31.0,4.0,Delivered
+ORD-01018,2025-03-26 05:00:00,Austin,Mexican,Organic,42.34,50,44.0,4.0,Delivered
+ORD-01019,2025-04-08 15:00:00,Austin,Healthy,Organic,68.46,30,38.0,4.0,Delivered
+ORD-01020,2025-02-18 08:00:00,Denver,Healthy,Paid social,49.65,30,20.0,5.0,Delivered
+ORD-01021,2025-01-25 08:00:00,Austin,Healthy,Organic,52.06,40,44.0,5.0,Delivered
+ORD-01022,2025-01-29 04:00:00,Austin,Mexican,Organic,16.4,30,35.0,4.0,Delivered
+ORD-01023,2025-03-15 10:00:00,Denver,Mexican,Organic,71.86,40,,,Cancelled
+ORD-01024,2025-03-05 19:00:00,Chicago,Pizza,Referral,66.29,30,42.0,4.0,Delivered
+ORD-01025,2025-01-10 06:00:00,Chicago,Mexican,Paid social,43.75,30,33.0,4.0,Delivered
+ORD-01026,2025-01-25 12:00:00,Austin,Asian,Referral,64.75,40,23.0,5.0,Delivered
+ORD-01027,2025-04-27 02:00:00,Austin,Healthy,Paid social,37.35,30,,,Cancelled
+ORD-01028,2025-03-29 03:00:00,Chicago,Burgers,Paid social,98.19,40,35.0,4.0,Delivered
+ORD-01029,2025-04-01 14:00:00,Denver,Asian,Paid social,41.04,40,34.0,5.0,Delivered
+ORD-01030,2025-01-24 15:00:00,Chicago,Asian,Referral,36.47,30,31.0,5.0,Delivered
+ORD-01031,2025-01-08 16:00:00,Denver,Healthy,Paid social,49.9,50,47.0,5.0,Delivered
+ORD-01032,2025-02-04 22:00:00,Denver,Pizza,Organic,111.01,40,30.0,5.0,Delivered
+ORD-01033,2025-04-13 19:00:00,Chicago,Healthy,Paid social,25.25,40,20.0,5.0,Delivered
+ORD-01034,2025-03-02 18:00:00,Chicago,Healthy,Paid social,47.74,30,28.0,5.0,Delivered
+ORD-01035,2025-04-05 03:00:00,Chicago,Asian,Organic,26.69,50,48.0,5.0,Delivered
+ORD-01036,2025-02-28 09:00:00,Austin,Mexican,Organic,36.43,40,43.0,5.0,Delivered
+ORD-01037,2025-02-28 19:00:00,Denver,Asian,Organic,19.93,40,32.0,4.0,Delivered
+ORD-01038,2025-03-14 02:00:00,Denver,Pizza,Referral,51.16,50,49.0,5.0,Delivered
+ORD-01039,2025-04-26 01:00:00,Chicago,Pizza,Organic,38.73,40,42.0,4.0,Delivered
+ORD-01040,2025-02-22 11:00:00,Chicago,Pizza,Referral,63.87,50,32.0,4.0,Delivered
+ORD-01041,2025-03-13 11:00:00,Chicago,Burgers,Organic,75.39,40,33.0,5.0,Delivered
+ORD-01042,2025-04-21 08:00:00,Denver,Asian,Paid social,82.7,50,38.0,5.0,Delivered
+ORD-01043,2025-02-14 16:00:00,Seattle,Burgers,Organic,27.48,50,27.0,4.0,Delivered
+ORD-01044,2025-04-11 19:00:00,Austin,Mexican,Referral,49.96,50,35.0,4.0,Delivered
+ORD-01045,2025-03-06 04:00:00,Chicago,Burgers,Paid social,86.06,30,38.0,4.0,Delivered
+ORD-01046,2025-04-16 11:00:00,Austin,Pizza,Organic,19.81,50,18.0,4.0,Delivered
+ORD-01047,2025-02-26 03:00:00,Chicago,Asian,Organic,41.64,50,33.0,5.0,Delivered
+ORD-01048,2025-03-17 13:00:00,Austin,Asian,Organic,20.88,40,32.0,5.0,Delivered
+ORD-01049,2025-02-08 19:00:00,Chicago,Burgers,Organic,110.09,40,45.0,4.0,Delivered
+ORD-01050,2025-03-18 04:00:00,Chicago,Mexican,Paid social,85.44,50,17.0,4.0,Delivered
+ORD-01051,2025-02-09 03:00:00,Chicago,Mexican,Referral,55.69,30,31.0,4.0,Delivered
+ORD-01052,2025-03-15 02:00:00,Chicago,Burgers,Paid social,55.12,40,30.0,4.0,Delivered
+ORD-01053,2025-04-05 15:00:00,Seattle,Mexican,Paid social,22.47,40,45.0,4.0,Delivered
+ORD-01054,2025-02-22 04:00:00,Seattle,Mexican,Organic,91.82,30,35.0,5.0,Delivered
+ORD-01055,2025-02-21 12:00:00,Austin,Healthy,Referral,31.28,40,53.0,4.0,Delivered
+ORD-01056,2025-02-08 15:00:00,Chicago,Healthy,Referral,24.2,30,42.0,3.0,Delivered
+ORD-01057,2025-03-29 15:00:00,Seattle,Asian,Organic,78.0,40,31.0,5.0,Delivered
+ORD-01058,2025-03-13 00:00:00,Denver,Burgers,Referral,29.16,50,37.0,4.0,Delivered
+ORD-01059,2025-03-03 23:00:00,Austin,Healthy,Organic,24.97,40,31.0,5.0,Delivered
+ORD-01060,2025-01-04 01:00:00,Denver,Asian,Referral,66.25,40,44.0,5.0,Delivered
+ORD-01061,2025-01-14 05:00:00,Austin,Healthy,Referral,15.35,30,,,Cancelled
+ORD-01062,2025-01-01 21:00:00,Austin,Asian,Paid social,56.14,50,27.0,5.0,Delivered
+ORD-01063,2025-04-13 00:00:00,Denver,Mexican,Organic,41.96,50,40.0,5.0,Delivered
+ORD-01064,2025-04-13 04:00:00,Denver,Asian,Paid social,62.76,30,47.0,3.0,Delivered
+ORD-01065,2025-01-09 03:00:00,Seattle,Asian,Organic,52.18,40,13.0,5.0,Delivered
+ORD-01066,2025-01-06 13:00:00,Chicago,Mexican,Paid social,153.34,40,,,Cancelled
+ORD-01067,2025-04-04 18:00:00,Seattle,Burgers,Organic,44.65,40,34.0,4.0,Delivered
+ORD-01068,2025-03-04 23:00:00,Chicago,Burgers,Paid social,29.1,40,16.0,5.0,Delivered
+ORD-01069,2025-02-07 01:00:00,Denver,Burgers,Referral,38.89,40,10.0,5.0,Delivered
+ORD-01070,2025-03-15 19:00:00,Austin,Burgers,Organic,51.81,40,20.0,5.0,Delivered
+ORD-01071,2025-01-29 09:00:00,Austin,Mexican,Organic,106.31,30,35.0,3.0,Delivered
+ORD-01072,2025-01-24 18:00:00,Seattle,Mexican,Paid social,58.5,40,34.0,4.0,Delivered
+ORD-01073,2025-02-14 02:00:00,Seattle,Burgers,Organic,21.54,50,41.0,5.0,Delivered
+ORD-01074,2025-04-18 11:00:00,Seattle,Mexican,Organic,284.79,30,,,Cancelled
+ORD-01075,2025-04-03 01:00:00,Chicago,Mexican,Organic,73.43,40,24.0,3.0,Delivered
+ORD-01076,2025-01-23 19:00:00,Austin,Healthy,Organic,20.58,30,31.0,5.0,Delivered
+ORD-01077,2025-03-09 09:00:00,Seattle,Healthy,Paid social,16.49,50,35.0,5.0,Delivered
+ORD-01078,2025-04-17 03:00:00,Denver,Pizza,Paid social,14.05,40,37.0,4.0,Delivered
+ORD-01079,2025-04-25 04:00:00,Austin,Healthy,Organic,37.5,40,27.0,4.0,Delivered
+ORD-01080,2025-04-02 13:00:00,Seattle,Burgers,Organic,38.59,30,44.0,3.0,Delivered
+ORD-01081,2025-01-16 11:00:00,Seattle,Healthy,Organic,23.79,40,29.0,4.0,Delivered
+ORD-01082,2025-01-29 21:00:00,Chicago,Pizza,Organic,12.36,50,26.0,4.0,Delivered
+ORD-01083,2025-01-27 05:00:00,Seattle,Mexican,Paid social,16.79,40,,,Cancelled
+ORD-01084,2025-01-19 02:00:00,Seattle,Asian,Organic,59.26,40,46.0,4.0,Delivered
+ORD-01085,2025-01-22 00:00:00,Denver,Healthy,Paid social,31.66,40,,,Cancelled
+ORD-01086,2025-02-07 22:00:00,Denver,Mexican,Referral,18.36,40,28.0,4.0,Delivered
+ORD-01087,2025-03-08 15:00:00,Chicago,Burgers,Paid social,41.86,40,44.0,4.0,Delivered
+ORD-01088,2025-02-17 18:00:00,Seattle,Pizza,Paid social,47.36,40,56.0,3.0,Delivered
+ORD-01089,2025-02-20 11:00:00,Seattle,Pizza,Organic,50.83,30,37.0,5.0,Delivered
+ORD-01090,2025-01-30 11:00:00,Seattle,Pizza,Organic,40.8,40,47.0,4.0,Delivered
+ORD-01091,2025-01-19 02:00:00,Denver,Asian,Organic,36.62,50,45.0,5.0,Delivered
+ORD-01092,2025-04-30 20:00:00,Austin,Healthy,Paid social,82.08,50,29.0,4.0,Delivered
+ORD-01093,2025-03-13 21:00:00,Chicago,Healthy,Referral,17.36,50,35.0,4.0,Delivered
+ORD-01094,2025-01-28 13:00:00,Chicago,Mexican,Organic,33.34,40,22.0,3.0,Delivered
+ORD-01095,2025-04-08 04:00:00,Seattle,Pizza,Organic,7.5,40,33.0,4.0,Delivered
+ORD-01096,2025-04-10 16:00:00,Denver,Burgers,Organic,30.3,40,29.0,4.0,Delivered
+ORD-01097,2025-04-27 00:00:00,Denver,Healthy,Paid social,43.88,50,31.0,5.0,Delivered
+ORD-01098,2025-01-20 02:00:00,Austin,Mexican,Paid social,65.84,40,28.0,5.0,Delivered
+ORD-01099,2025-03-18 19:00:00,Seattle,Mexican,Paid social,7.74,40,32.0,3.0,Delivered
+ORD-01100,2025-04-28 15:00:00,Chicago,Mexican,Referral,43.01,40,40.0,4.0,Delivered
+ORD-01101,2025-04-07 19:00:00,Austin,Burgers,Organic,116.08,50,34.0,4.0,Delivered
+ORD-01102,2025-01-28 01:00:00,Seattle,Pizza,Paid social,53.35,50,16.0,4.0,Delivered
+ORD-01103,2025-04-18 03:00:00,Austin,Asian,Paid social,14.84,50,28.0,5.0,Delivered
+ORD-01104,2025-02-20 14:00:00,Austin,Healthy,Organic,30.34,40,20.0,4.0,Delivered
+ORD-01105,2025-02-28 16:00:00,Austin,Mexican,Referral,54.48,40,37.0,5.0,Delivered
+ORD-01106,2025-03-09 00:00:00,Chicago,Asian,Organic,24.63,40,40.0,5.0,Delivered
+ORD-01107,2025-04-03 13:00:00,Austin,Healthy,Paid social,46.4,40,38.0,5.0,Delivered
+ORD-01108,2025-01-15 10:00:00,Seattle,Healthy,Paid social,44.6,50,27.0,4.0,Delivered
+ORD-01109,2025-03-06 17:00:00,Denver,Mexican,Referral,37.12,40,,,Cancelled
+ORD-01110,2025-04-09 00:00:00,Chicago,Asian,Paid social,13.55,40,30.0,5.0,Delivered
+ORD-01111,2025-03-07 19:00:00,Austin,Burgers,Organic,22.67,40,24.0,4.0,Delivered
+ORD-01112,2025-02-02 23:00:00,Chicago,Burgers,Referral,123.3,40,42.0,5.0,Delivered
+ORD-01113,2025-01-07 18:00:00,Austin,Mexican,Paid social,28.92,40,43.0,5.0,Delivered
+ORD-01114,2025-03-07 21:00:00,Seattle,Burgers,Paid social,31.5,30,,,Cancelled
+ORD-01115,2025-03-26 09:00:00,Chicago,Healthy,Paid social,31.38,50,,,Cancelled
+ORD-01116,2025-03-07 22:00:00,Chicago,Mexican,Organic,64.81,40,47.0,3.0,Delivered
+ORD-01117,2025-04-28 12:00:00,Austin,Mexican,Paid social,32.62,40,30.0,5.0,Delivered
+ORD-01118,2025-03-14 07:00:00,Austin,Asian,Referral,37.7,30,42.0,4.0,Delivered
+ORD-01119,2025-03-02 23:00:00,Austin,Pizza,Organic,43.03,40,30.0,5.0,Delivered
+ORD-01120,2025-01-07 15:00:00,Austin,Asian,Paid social,69.45,40,33.0,5.0,Delivered
+ORD-01121,2025-03-09 00:00:00,Denver,Asian,Referral,37.82,50,11.0,5.0,Delivered
+ORD-01122,2025-01-21 05:00:00,Seattle,Asian,Paid social,40.67,30,32.0,4.0,Delivered
+ORD-01123,2025-03-28 23:00:00,Seattle,Burgers,Referral,25.53,50,36.0,5.0,Delivered
+ORD-01124,2025-01-20 08:00:00,Chicago,Pizza,Organic,47.11,40,31.0,4.0,Delivered
+ORD-01125,2025-04-19 19:00:00,Seattle,Burgers,Referral,56.2,40,53.0,3.0,Delivered
+ORD-01126,2025-02-06 05:00:00,Denver,Mexican,Organic,58.71,30,23.0,2.0,Delivered
+ORD-01127,2025-02-22 01:00:00,Austin,Healthy,Paid social,111.8,40,29.0,5.0,Delivered
+ORD-01128,2025-01-18 09:00:00,Austin,Asian,Organic,21.46,50,26.0,4.0,Delivered
+ORD-01129,2025-01-26 06:00:00,Denver,Healthy,Paid social,38.9,40,29.0,5.0,Delivered
+ORD-01130,2025-04-21 15:00:00,Chicago,Asian,Referral,32.78,40,,,Cancelled
+ORD-01131,2025-02-04 01:00:00,Austin,Healthy,Paid social,99.63,40,,,Cancelled
+ORD-01132,2025-03-03 13:00:00,Seattle,Healthy,Paid social,60.16,50,28.0,3.0,Delivered
+ORD-01133,2025-04-28 18:00:00,Denver,Healthy,Organic,10.34,40,28.0,4.0,Delivered
+ORD-01134,2025-03-16 19:00:00,Denver,Burgers,Paid social,23.94,50,23.0,5.0,Delivered
+ORD-01135,2025-01-05 23:00:00,Seattle,Mexican,Paid social,30.06,30,,,Cancelled
+ORD-01136,2025-02-12 21:00:00,Seattle,Healthy,Organic,11.72,50,46.0,4.0,Delivered
+ORD-01137,2025-02-16 10:00:00,Seattle,Burgers,Paid social,40.92,40,34.0,5.0,Delivered
+ORD-01138,2025-02-03 03:00:00,Chicago,Healthy,Referral,26.36,30,21.0,4.0,Delivered
+ORD-01139,2025-01-29 22:00:00,Seattle,Asian,Paid social,114.8,50,22.0,5.0,Delivered
+ORD-01140,2025-03-02 09:00:00,Denver,Pizza,Paid social,46.86,30,37.0,4.0,Delivered
+ORD-01141,2025-02-15 05:00:00,Denver,Mexican,Organic,29.22,30,40.0,4.0,Delivered
+ORD-01142,2025-02-05 07:00:00,Seattle,Burgers,Paid social,18.28,40,14.0,5.0,Delivered
+ORD-01143,2025-02-19 13:00:00,Austin,Mexican,Organic,36.66,40,32.0,4.0,Delivered
+ORD-01144,2025-02-11 05:00:00,Chicago,Mexican,Organic,94.4,30,51.0,3.0,Delivered
+ORD-01145,2025-01-28 10:00:00,Austin,Mexican,Organic,33.04,40,33.0,5.0,Delivered
+ORD-01146,2025-02-24 07:00:00,Chicago,Asian,Organic,36.88,50,50.0,4.0,Delivered
+ORD-01147,2025-04-24 01:00:00,Chicago,Pizza,Organic,75.51,50,41.0,4.0,Delivered
+ORD-01148,2025-03-02 16:00:00,Seattle,Pizza,Paid social,45.97,30,24.0,4.0,Delivered
+ORD-01149,2025-03-13 16:00:00,Seattle,Pizza,Organic,63.99,40,32.0,5.0,Delivered
+ORD-01150,2025-04-29 02:00:00,Chicago,Pizza,Organic,49.04,50,34.0,4.0,Delivered
+ORD-01151,2025-03-15 15:00:00,Chicago,Pizza,Organic,47.26,30,25.0,3.0,Delivered
+ORD-01152,2025-01-27 19:00:00,Denver,Mexican,Paid social,9.84,30,25.0,5.0,Delivered
+ORD-01153,2025-02-17 19:00:00,Seattle,Asian,Organic,16.3,30,50.0,4.0,Delivered
+ORD-01154,2025-02-28 13:00:00,Seattle,Healthy,Organic,42.78,40,25.0,3.0,Delivered
+ORD-01155,2025-02-26 23:00:00,Austin,Burgers,Paid social,19.61,30,46.0,4.0,Delivered
+ORD-01156,2025-01-18 22:00:00,Austin,Burgers,Organic,36.68,40,31.0,5.0,Delivered
+ORD-01157,2025-01-13 16:00:00,Denver,Pizza,Referral,15.11,50,35.0,5.0,Delivered
+ORD-01158,2025-02-11 23:00:00,Chicago,Pizza,Organic,75.9,30,41.0,3.0,Delivered
+ORD-01159,2025-04-20 17:00:00,Austin,Healthy,Organic,21.46,40,29.0,4.0,Delivered
+ORD-01160,2025-03-28 01:00:00,Austin,Mexican,Organic,18.23,30,41.0,4.0,Delivered
+ORD-01161,2025-04-12 00:00:00,Chicago,Asian,Paid social,12.44,30,15.0,5.0,Delivered
+ORD-01162,2025-01-21 22:00:00,Chicago,Burgers,Organic,58.3,50,39.0,5.0,Delivered
+ORD-01163,2025-02-19 17:00:00,Denver,Pizza,Referral,36.65,40,10.0,4.0,Delivered
+ORD-01164,2025-03-11 18:00:00,Austin,Healthy,Organic,74.17,50,33.0,4.0,Delivered
+ORD-01165,2025-02-22 02:00:00,Denver,Healthy,Paid social,25.66,40,44.0,5.0,Delivered
+ORD-01166,2025-02-20 00:00:00,Denver,Healthy,Organic,15.96,30,41.0,4.0,Delivered
+ORD-01167,2025-02-13 04:00:00,Chicago,Burgers,Organic,35.53,40,22.0,5.0,Delivered
+ORD-01168,2025-01-07 04:00:00,Austin,Pizza,Organic,83.46,30,23.0,5.0,Delivered
+ORD-01169,2025-04-13 20:00:00,Denver,Mexican,Paid social,9.62,50,28.0,5.0,Delivered
+ORD-01170,2025-04-22 23:00:00,Denver,Mexican,Organic,45.29,40,37.0,4.0,Delivered
+ORD-01171,2025-01-10 16:00:00,Chicago,Burgers,Referral,48.34,40,15.0,5.0,Delivered
+ORD-01172,2025-02-19 15:00:00,Chicago,Mexican,Paid social,92.01,40,35.0,4.0,Delivered
+ORD-01173,2025-03-04 03:00:00,Denver,Pizza,Referral,20.27,40,38.0,5.0,Delivered
+ORD-01174,2025-04-05 01:00:00,Chicago,Mexican,Organic,9.04,50,32.0,5.0,Delivered
+ORD-01175,2025-04-29 09:00:00,Chicago,Healthy,Paid social,27.56,30,40.0,4.0,Delivered
+ORD-01176,2025-02-19 22:00:00,Chicago,Burgers,Paid social,63.41,30,37.0,5.0,Delivered
+ORD-01177,2025-03-31 20:00:00,Chicago,Healthy,Paid social,38.28,30,30.0,5.0,Delivered
+ORD-01178,2025-04-23 11:00:00,Denver,Burgers,Referral,51.7,40,16.0,4.0,Delivered
+ORD-01179,2025-04-10 15:00:00,Chicago,Mexican,Paid social,16.78,40,36.0,4.0,Delivered
+ORD-01180,2025-02-04 20:00:00,Chicago,Asian,Referral,31.66,30,25.0,5.0,Delivered
+ORD-01181,2025-04-09 02:00:00,Denver,Asian,Paid social,39.25,40,29.0,5.0,Delivered
+ORD-01182,2025-02-19 11:00:00,Chicago,Mexican,Organic,10.94,40,40.0,4.0,Delivered
+ORD-01183,2025-01-03 02:00:00,Austin,Burgers,Paid social,39.09,30,49.0,3.0,Delivered
+ORD-01184,2025-04-02 01:00:00,Seattle,Healthy,Paid social,29.6,50,35.0,5.0,Delivered
+ORD-01185,2025-04-11 05:00:00,Austin,Healthy,Referral,172.24,40,41.0,4.0,Delivered
+ORD-01186,2025-02-11 05:00:00,Denver,Healthy,Referral,37.24,40,21.0,5.0,Delivered
+ORD-01187,2025-02-24 02:00:00,Chicago,Mexican,Organic,95.12,40,37.0,5.0,Delivered
+ORD-01188,2025-02-13 17:00:00,Austin,Burgers,Organic,51.45,40,,,Cancelled
+ORD-01189,2025-01-15 01:00:00,Austin,Mexican,Organic,34.2,50,47.0,5.0,Delivered
+ORD-01190,2025-04-30 09:00:00,Seattle,Burgers,Paid social,86.51,40,30.0,5.0,Delivered
+ORD-01191,2025-01-03 17:00:00,Chicago,Burgers,Organic,14.85,40,33.0,4.0,Delivered
+ORD-01192,2025-03-08 16:00:00,Chicago,Healthy,Paid social,27.11,50,46.0,5.0,Delivered
+ORD-01193,2025-01-02 18:00:00,Denver,Pizza,Paid social,65.81,50,34.0,3.0,Delivered
+ORD-01194,2025-03-24 17:00:00,Austin,Burgers,Referral,4.95,50,,,Cancelled
+ORD-01195,2025-04-19 02:00:00,Denver,Healthy,Organic,36.39,30,61.0,2.0,Delivered
+ORD-01196,2025-03-19 05:00:00,Chicago,Asian,Paid social,36.18,30,24.0,5.0,Delivered
+ORD-01197,2025-03-14 17:00:00,Denver,Asian,Organic,44.32,40,34.0,5.0,Delivered
+ORD-01198,2025-04-10 08:00:00,Austin,Mexican,Referral,31.91,40,38.0,4.0,Delivered
+ORD-01199,2025-04-27 21:00:00,Seattle,Mexican,Organic,64.13,40,38.0,4.0,Delivered
+ORD-01200,2025-04-14 10:00:00,Austin,Burgers,Organic,21.07,50,33.0,5.0,Delivered
+ORD-01201,2025-01-28 18:00:00,Denver,Mexican,Organic,69.85,40,33.0,4.0,Delivered
+ORD-01202,2025-03-09 14:00:00,Denver,Burgers,Referral,16.38,40,33.0,4.0,Delivered
+ORD-01203,2025-04-09 06:00:00,Chicago,Burgers,Organic,46.65,40,24.0,5.0,Delivered
+ORD-01204,2025-02-05 08:00:00,Austin,Healthy,Paid social,80.19,40,57.0,3.0,Delivered
+ORD-01205,2025-03-23 00:00:00,Chicago,Burgers,Paid social,19.67,40,33.0,3.0,Delivered
+ORD-01206,2025-01-03 17:00:00,Seattle,Pizza,Paid social,23.5,40,41.0,4.0,Delivered
+ORD-01207,2025-04-16 06:00:00,Seattle,Healthy,Organic,71.39,40,32.0,5.0,Delivered
+ORD-01208,2025-03-15 17:00:00,Seattle,Burgers,Organic,42.29,40,31.0,3.0,Delivered
+ORD-01209,2025-03-31 04:00:00,Austin,Healthy,Organic,9.14,40,30.0,4.0,Delivered
+ORD-01210,2025-04-10 01:00:00,Denver,Mexican,Organic,43.39,40,20.0,4.0,Delivered
+ORD-01211,2025-01-27 06:00:00,Austin,Burgers,Paid social,57.35,30,33.0,5.0,Delivered
+ORD-01212,2025-02-24 01:00:00,Denver,Pizza,Organic,73.25,40,31.0,5.0,Delivered
+ORD-01213,2025-04-14 00:00:00,Chicago,Healthy,Organic,45.92,40,47.0,3.0,Delivered
+ORD-01214,2025-01-20 18:00:00,Denver,Mexican,Organic,52.56,40,23.0,5.0,Delivered
+ORD-01215,2025-04-09 16:00:00,Denver,Pizza,Paid social,100.96,40,29.0,4.0,Delivered
+ORD-01216,2025-02-04 13:00:00,Seattle,Healthy,Organic,67.04,50,26.0,4.0,Delivered
+ORD-01217,2025-03-11 01:00:00,Chicago,Asian,Paid social,31.09,30,49.0,4.0,Delivered
+ORD-01218,2025-03-03 04:00:00,Chicago,Mexican,Organic,33.98,40,26.0,4.0,Delivered
+ORD-01219,2025-03-24 09:00:00,Denver,Asian,Referral,78.16,50,41.0,4.0,Delivered
+ORD-01220,2025-04-11 09:00:00,Austin,Healthy,Paid social,45.3,50,45.0,4.0,Delivered
+ORD-01221,2025-02-11 21:00:00,Austin,Pizza,Organic,40.95,40,34.0,5.0,Delivered
+ORD-01222,2025-01-21 14:00:00,Denver,Healthy,Organic,30.4,40,21.0,2.0,Delivered
+ORD-01223,2025-02-20 17:00:00,Seattle,Mexican,Organic,76.31,50,21.0,4.0,Delivered
+ORD-01224,2025-03-15 10:00:00,Denver,Healthy,Organic,20.57,40,44.0,4.0,Delivered
+ORD-01225,2025-04-01 01:00:00,Seattle,Burgers,Organic,27.16,30,22.0,4.0,Delivered
+ORD-01226,2025-04-01 09:00:00,Austin,Burgers,Referral,76.16,30,39.0,4.0,Delivered
+ORD-01227,2025-02-10 19:00:00,Chicago,Healthy,Paid social,75.58,50,36.0,5.0,Delivered
+ORD-01228,2025-04-23 07:00:00,Denver,Asian,Organic,138.8,40,39.0,4.0,Delivered
+ORD-01229,2025-01-10 23:00:00,Chicago,Healthy,Paid social,36.49,30,,,Cancelled
+ORD-01230,2025-01-15 00:00:00,Austin,Healthy,Organic,30.73,40,26.0,5.0,Delivered
+ORD-01231,2025-01-03 23:00:00,Austin,Pizza,Referral,32.97,50,25.0,4.0,Delivered
+ORD-01232,2025-04-22 04:00:00,Seattle,Asian,Organic,10.2,40,42.0,5.0,Delivered
+ORD-01233,2025-01-22 14:00:00,Denver,Pizza,Paid social,5.87,50,29.0,5.0,Delivered
+ORD-01234,2025-03-14 04:00:00,Chicago,Healthy,Paid social,45.82,40,10.0,4.0,Delivered
+ORD-01235,2025-04-08 13:00:00,Chicago,Mexican,Organic,29.09,50,41.0,4.0,Delivered
+ORD-01236,2025-04-03 00:00:00,Austin,Healthy,Organic,21.7,50,25.0,5.0,Delivered
+ORD-01237,2025-04-24 20:00:00,Seattle,Burgers,Organic,40.56,40,40.0,5.0,Delivered
+ORD-01238,2025-01-07 10:00:00,Austin,Pizza,Referral,46.53,40,49.0,3.0,Delivered
+ORD-01239,2025-02-18 20:00:00,Seattle,Burgers,Paid social,34.76,30,35.0,4.0,Delivered
+ORD-01240,2025-03-02 17:00:00,Austin,Asian,Paid social,35.39,50,45.0,4.0,Delivered
+ORD-01241,2025-03-25 12:00:00,Chicago,Mexican,Paid social,28.84,40,37.0,4.0,Delivered
+ORD-01242,2025-03-16 17:00:00,Chicago,Mexican,Referral,60.14,40,51.0,3.0,Delivered
+ORD-01243,2025-03-09 04:00:00,Seattle,Pizza,Organic,25.8,50,24.0,4.0,Delivered
+ORD-01244,2025-02-06 19:00:00,Austin,Healthy,Paid social,18.29,30,35.0,4.0,Delivered
+ORD-01245,2025-01-13 18:00:00,Chicago,Asian,Paid social,27.98,50,42.0,5.0,Delivered
+ORD-01246,2025-02-21 19:00:00,Chicago,Asian,Organic,44.46,30,33.0,4.0,Delivered
+ORD-01247,2025-02-01 03:00:00,Chicago,Healthy,Referral,62.47,40,47.0,5.0,Delivered
+ORD-01248,2025-03-08 12:00:00,Austin,Burgers,Organic,113.17,40,31.0,3.0,Delivered
+ORD-01249,2025-04-06 15:00:00,Seattle,Pizza,Organic,40.7,40,56.0,4.0,Delivered
+ORD-01250,2025-03-08 07:00:00,Chicago,Asian,Referral,95.87,40,,,Cancelled
+ORD-01251,2025-03-11 23:00:00,Chicago,Pizza,Organic,24.22,50,38.0,5.0,Delivered
+ORD-01252,2025-01-06 00:00:00,Chicago,Burgers,Organic,21.12,40,41.0,5.0,Delivered
+ORD-01253,2025-03-19 08:00:00,Seattle,Asian,Organic,51.02,40,47.0,5.0,Delivered
+ORD-01254,2025-02-22 17:00:00,Chicago,Burgers,Paid social,55.99,50,23.0,4.0,Delivered
+ORD-01255,2025-01-15 20:00:00,Chicago,Asian,Referral,43.48,50,22.0,5.0,Delivered
+ORD-01256,2025-01-26 15:00:00,Chicago,Healthy,Organic,174.61,30,48.0,3.0,Delivered
+ORD-01257,2025-04-04 16:00:00,Chicago,Burgers,Organic,25.24,50,38.0,5.0,Delivered
+ORD-01258,2025-04-21 00:00:00,Austin,Healthy,Organic,84.82,30,33.0,3.0,Delivered
+ORD-01259,2025-03-02 22:00:00,Denver,Healthy,Referral,21.57,40,35.0,5.0,Delivered
+ORD-01260,2025-04-28 04:00:00,Austin,Asian,Organic,58.87,40,,,Cancelled
+ORD-01261,2025-01-22 14:00:00,Austin,Asian,Referral,39.53,50,33.0,5.0,Delivered
+ORD-01262,2025-02-05 22:00:00,Austin,Asian,Referral,45.48,30,27.0,4.0,Delivered
+ORD-01263,2025-04-22 14:00:00,Chicago,Asian,Organic,51.38,30,44.0,3.0,Delivered
+ORD-01264,2025-01-22 00:00:00,Seattle,Asian,Referral,40.51,50,,,Cancelled
+ORD-01265,2025-03-21 03:00:00,Denver,Burgers,Paid social,35.3,30,41.0,4.0,Delivered
+ORD-01266,2025-01-27 08:00:00,Seattle,Healthy,Paid social,8.23,40,39.0,5.0,Delivered
+ORD-01267,2025-02-09 17:00:00,Chicago,Burgers,Organic,68.74,40,20.0,5.0,Delivered
+ORD-01268,2025-02-27 07:00:00,Seattle,Burgers,Referral,14.17,40,,,Cancelled
+ORD-01269,2025-02-13 04:00:00,Austin,Healthy,Paid social,29.34,30,41.0,5.0,Delivered
+ORD-01270,2025-04-15 22:00:00,Denver,Healthy,Paid social,47.67,40,47.0,4.0,Delivered
+ORD-01271,2025-04-27 17:00:00,Seattle,Burgers,Referral,16.4,50,,,Cancelled
+ORD-01272,2025-03-02 00:00:00,Denver,Burgers,Organic,35.27,40,18.0,5.0,Delivered
+ORD-01273,2025-03-05 00:00:00,Seattle,Healthy,Referral,63.89,30,31.0,5.0,Delivered
+ORD-01274,2025-01-07 15:00:00,Chicago,Asian,Referral,28.86,30,28.0,4.0,Delivered
+ORD-01275,2025-01-29 02:00:00,Austin,Healthy,Organic,35.68,40,37.0,4.0,Delivered
+ORD-01276,2025-01-05 18:00:00,Seattle,Pizza,Organic,19.13,50,35.0,5.0,Delivered
+ORD-01277,2025-04-13 19:00:00,Austin,Burgers,Organic,31.35,40,33.0,5.0,Delivered
+ORD-01278,2025-01-28 06:00:00,Seattle,Asian,Referral,14.5,30,45.0,2.0,Delivered
+ORD-01279,2025-02-10 21:00:00,Denver,Mexican,Organic,44.03,40,24.0,4.0,Delivered
+ORD-01280,2025-04-12 03:00:00,Seattle,Asian,Paid social,11.79,30,25.0,5.0,Delivered
+ORD-01281,2025-03-27 14:00:00,Chicago,Asian,Organic,24.54,40,25.0,5.0,Delivered
+ORD-01282,2025-03-16 13:00:00,Seattle,Asian,Organic,39.76,50,31.0,5.0,Delivered
+ORD-01283,2025-01-05 14:00:00,Austin,Pizza,Paid social,33.66,40,23.0,4.0,Delivered
+ORD-01284,2025-03-09 13:00:00,Chicago,Pizza,Organic,49.41,30,35.0,5.0,Delivered
+ORD-01285,2025-03-09 07:00:00,Austin,Healthy,Referral,35.76,40,,,Cancelled
+ORD-01286,2025-02-08 06:00:00,Seattle,Mexican,Organic,8.2,30,,,Cancelled
+ORD-01287,2025-03-31 09:00:00,Denver,Mexican,Referral,16.18,30,44.0,2.0,Delivered
+ORD-01288,2025-04-22 12:00:00,Seattle,Mexican,Organic,38.49,40,34.0,3.0,Delivered
+ORD-01289,2025-02-01 02:00:00,Seattle,Healthy,Referral,74.64,40,46.0,4.0,Delivered
+ORD-01290,2025-02-09 17:00:00,Chicago,Pizza,Paid social,66.53,40,33.0,4.0,Delivered
+ORD-01291,2025-02-08 16:00:00,Austin,Mexican,Organic,171.81,50,35.0,5.0,Delivered
+ORD-01292,2025-04-11 04:00:00,Seattle,Asian,Organic,26.62,30,29.0,5.0,Delivered
+ORD-01293,2025-01-10 07:00:00,Chicago,Burgers,Organic,62.54,50,35.0,4.0,Delivered
+ORD-01294,2025-04-18 12:00:00,Austin,Pizza,Paid social,59.77,40,42.0,4.0,Delivered
+ORD-01295,2025-04-04 00:00:00,Seattle,Healthy,Referral,98.08,40,31.0,5.0,Delivered
+ORD-01296,2025-02-28 00:00:00,Seattle,Burgers,Organic,82.2,50,40.0,4.0,Delivered
+ORD-01297,2025-03-12 00:00:00,Chicago,Pizza,Organic,46.2,30,27.0,5.0,Delivered
+ORD-01298,2025-04-18 07:00:00,Seattle,Mexican,Paid social,56.21,40,43.0,4.0,Delivered
+ORD-01299,2025-04-03 09:00:00,Austin,Healthy,Paid social,49.52,40,29.0,4.0,Delivered
+ORD-01300,2025-02-03 05:00:00,Austin,Healthy,Paid social,37.51,40,44.0,3.0,Delivered
+ORD-01301,2025-01-07 01:00:00,Chicago,Asian,Organic,53.65,50,36.0,4.0,Delivered
+ORD-01302,2025-03-21 00:00:00,Denver,Burgers,Paid social,43.12,30,50.0,2.0,Delivered
+ORD-01303,2025-01-18 11:00:00,Austin,Healthy,Referral,41.92,50,23.0,4.0,Delivered
+ORD-01304,2025-01-11 13:00:00,Austin,Pizza,Organic,100.89,30,20.0,5.0,Delivered
+ORD-01305,2025-04-28 21:00:00,Denver,Burgers,Organic,46.79,30,29.0,3.0,Delivered
+ORD-01306,2025-02-26 20:00:00,Seattle,Asian,Organic,40.7,40,,,Cancelled
+ORD-01307,2025-03-20 02:00:00,Denver,Healthy,Paid social,34.37,50,21.0,5.0,Delivered
+ORD-01308,2025-01-27 01:00:00,Seattle,Pizza,Organic,32.35,30,41.0,4.0,Delivered
+ORD-01309,2025-01-13 04:00:00,Seattle,Healthy,Referral,15.8,50,35.0,5.0,Delivered
+ORD-01310,2025-01-08 12:00:00,Denver,Burgers,Paid social,37.54,30,,,Cancelled
+ORD-01311,2025-02-12 12:00:00,Denver,Mexican,Paid social,77.02,40,31.0,4.0,Delivered
+ORD-01312,2025-01-01 10:00:00,Seattle,Mexican,Paid social,26.06,40,,,Cancelled
+ORD-01313,2025-02-20 09:00:00,Chicago,Burgers,Organic,127.85,30,52.0,3.0,Delivered
+ORD-01314,2025-02-08 23:00:00,Austin,Pizza,Referral,5.23,50,28.0,5.0,Delivered
+ORD-01315,2025-03-05 05:00:00,Seattle,Healthy,Organic,52.36,40,22.0,4.0,Delivered
+ORD-01316,2025-03-12 17:00:00,Chicago,Asian,Paid social,44.19,40,43.0,4.0,Delivered
+ORD-01317,2025-02-07 00:00:00,Seattle,Healthy,Referral,99.79,40,33.0,3.0,Delivered
+ORD-01318,2025-02-24 15:00:00,Chicago,Pizza,Paid social,24.03,40,55.0,2.0,Delivered
+ORD-01319,2025-01-10 08:00:00,Seattle,Burgers,Referral,14.34,40,30.0,4.0,Delivered
+ORD-01320,2025-02-06 05:00:00,Austin,Healthy,Organic,33.14,50,43.0,5.0,Delivered
+ORD-01321,2025-04-28 09:00:00,Denver,Mexican,Referral,29.59,40,46.0,4.0,Delivered
+ORD-01322,2025-04-29 22:00:00,Chicago,Mexican,Paid social,10.07,40,30.0,5.0,Delivered
+ORD-01323,2025-02-28 07:00:00,Chicago,Pizza,Paid social,40.96,40,28.0,4.0,Delivered
+ORD-01324,2025-04-23 17:00:00,Chicago,Asian,Organic,27.88,40,42.0,5.0,Delivered
+ORD-01325,2025-03-02 03:00:00,Seattle,Healthy,Organic,88.66,40,41.0,4.0,Delivered
+ORD-01326,2025-01-16 01:00:00,Chicago,Healthy,Paid social,41.4,40,21.0,4.0,Delivered
+ORD-01327,2025-04-15 03:00:00,Seattle,Asian,Organic,21.84,40,24.0,5.0,Delivered
+ORD-01328,2025-02-19 19:00:00,Chicago,Mexican,Paid social,38.0,50,10.0,5.0,Delivered
+ORD-01329,2025-03-15 11:00:00,Austin,Asian,Referral,43.64,50,41.0,4.0,Delivered
+ORD-01330,2025-03-19 20:00:00,Seattle,Healthy,Referral,55.63,50,32.0,5.0,Delivered
+ORD-01331,2025-02-06 23:00:00,Austin,Burgers,Organic,39.26,50,33.0,5.0,Delivered
+ORD-01332,2025-03-30 00:00:00,Chicago,Asian,Referral,124.0,40,18.0,4.0,Delivered
+ORD-01333,2025-03-02 03:00:00,Seattle,Pizza,Organic,15.39,40,24.0,4.0,Delivered
+ORD-01334,2025-02-13 23:00:00,Seattle,Burgers,Organic,27.55,30,,,Cancelled
+ORD-01335,2025-02-05 17:00:00,Seattle,Burgers,Referral,21.91,40,,,Cancelled
+ORD-01336,2025-03-31 13:00:00,Chicago,Pizza,Organic,30.57,40,36.0,4.0,Delivered
+ORD-01337,2025-01-30 22:00:00,Seattle,Pizza,Organic,47.14,30,41.0,4.0,Delivered
+ORD-01338,2025-01-15 21:00:00,Chicago,Asian,Organic,45.02,50,58.0,3.0,Delivered
+ORD-01339,2025-04-16 19:00:00,Denver,Burgers,Paid social,54.78,50,35.0,4.0,Delivered
+ORD-01340,2025-02-09 19:00:00,Denver,Mexican,Referral,41.24,40,46.0,4.0,Delivered
+ORD-01341,2025-03-18 22:00:00,Austin,Mexican,Organic,42.89,40,27.0,5.0,Delivered
+ORD-01342,2025-03-27 23:00:00,Chicago,Pizza,Organic,41.79,40,18.0,5.0,Delivered
+ORD-01343,2025-04-11 14:00:00,Chicago,Healthy,Paid social,28.56,40,31.0,4.0,Delivered
+ORD-01344,2025-03-17 01:00:00,Chicago,Asian,Organic,27.08,50,19.0,4.0,Delivered
+ORD-01345,2025-03-26 22:00:00,Chicago,Pizza,Paid social,21.58,50,,,Cancelled
+ORD-01346,2025-04-11 11:00:00,Denver,Asian,Referral,56.62,40,27.0,5.0,Delivered
+ORD-01347,2025-04-24 04:00:00,Austin,Asian,Paid social,6.32,30,15.0,3.0,Delivered
+ORD-01348,2025-01-06 14:00:00,Austin,Mexican,Referral,42.27,40,52.0,4.0,Delivered
+ORD-01349,2025-03-31 04:00:00,Seattle,Mexican,Paid social,63.29,30,30.0,3.0,Delivered
+ORD-01350,2025-01-21 22:00:00,Chicago,Asian,Referral,73.77,40,19.0,4.0,Delivered
+ORD-01351,2025-04-17 22:00:00,Denver,Asian,Organic,4.48,30,44.0,3.0,Delivered
+ORD-01352,2025-01-06 19:00:00,Denver,Healthy,Organic,29.2,30,28.0,5.0,Delivered
+ORD-01353,2025-01-30 14:00:00,Denver,Burgers,Paid social,22.54,40,46.0,5.0,Delivered
+ORD-01354,2025-01-24 01:00:00,Chicago,Mexican,Organic,27.51,30,28.0,5.0,Delivered
+ORD-01355,2025-03-14 09:00:00,Chicago,Healthy,Referral,83.35,40,30.0,5.0,Delivered
+ORD-01356,2025-01-01 12:00:00,Seattle,Healthy,Paid social,22.64,30,38.0,3.0,Delivered
+ORD-01357,2025-01-03 01:00:00,Seattle,Healthy,Referral,63.19,50,41.0,5.0,Delivered
+ORD-01358,2025-03-02 12:00:00,Chicago,Burgers,Organic,42.66,30,43.0,3.0,Delivered
+ORD-01359,2025-04-27 14:00:00,Denver,Burgers,Paid social,26.67,30,34.0,4.0,Delivered
+ORD-01360,2025-03-05 09:00:00,Seattle,Mexican,Paid social,24.77,30,40.0,4.0,Delivered
+ORD-01361,2025-02-23 12:00:00,Austin,Healthy,Organic,45.57,40,42.0,4.0,Delivered
+ORD-01362,2025-03-20 22:00:00,Seattle,Healthy,Paid social,36.64,40,37.0,5.0,Delivered
+ORD-01363,2025-03-08 05:00:00,Chicago,Healthy,Paid social,9.45,40,34.0,3.0,Delivered
+ORD-01364,2025-02-16 04:00:00,Seattle,Burgers,Referral,18.84,30,21.0,5.0,Delivered
+ORD-01365,2025-03-12 15:00:00,Denver,Pizza,Paid social,46.33,50,41.0,4.0,Delivered
+ORD-01366,2025-01-01 09:00:00,Seattle,Healthy,Organic,14.83,30,35.0,4.0,Delivered
+ORD-01367,2025-01-30 08:00:00,Austin,Mexican,Organic,68.81,40,31.0,5.0,Delivered
+ORD-01368,2025-03-22 20:00:00,Austin,Pizza,Paid social,11.53,50,48.0,4.0,Delivered
+ORD-01369,2025-02-10 23:00:00,Seattle,Pizza,Organic,31.93,30,21.0,5.0,Delivered
+ORD-01370,2025-01-07 12:00:00,Denver,Mexican,Organic,57.72,40,51.0,4.0,Delivered
+ORD-01371,2025-01-15 22:00:00,Denver,Mexican,Organic,17.71,50,35.0,4.0,Delivered
+ORD-01372,2025-04-14 22:00:00,Austin,Healthy,Organic,14.02,40,,,Cancelled
+ORD-01373,2025-02-09 13:00:00,Austin,Mexican,Paid social,51.29,30,31.0,4.0,Delivered
+ORD-01374,2025-01-03 17:00:00,Seattle,Burgers,Organic,64.44,40,18.0,4.0,Delivered
+ORD-01375,2025-03-29 10:00:00,Chicago,Mexican,Paid social,33.51,30,,,Cancelled
+ORD-01376,2025-03-05 15:00:00,Denver,Asian,Organic,28.64,50,38.0,4.0,Delivered
+ORD-01377,2025-02-24 03:00:00,Chicago,Pizza,Paid social,11.15,40,42.0,4.0,Delivered
+ORD-01378,2025-04-18 09:00:00,Chicago,Burgers,Organic,40.17,40,33.0,4.0,Delivered
+ORD-01379,2025-02-07 15:00:00,Austin,Mexican,Referral,8.15,30,13.0,4.0,Delivered
+ORD-01380,2025-03-10 16:00:00,Seattle,Asian,Organic,84.05,40,20.0,5.0,Delivered
+ORD-01381,2025-03-31 09:00:00,Seattle,Asian,Paid social,34.63,40,56.0,4.0,Delivered
+ORD-01382,2025-03-15 00:00:00,Austin,Pizza,Organic,19.14,30,24.0,4.0,Delivered
+ORD-01383,2025-01-25 22:00:00,Chicago,Pizza,Organic,24.59,50,49.0,5.0,Delivered
+ORD-01384,2025-03-23 19:00:00,Denver,Burgers,Organic,42.21,40,,,Cancelled
+ORD-01385,2025-03-31 04:00:00,Chicago,Asian,Referral,27.62,50,,,Cancelled
+ORD-01386,2025-01-15 16:00:00,Denver,Pizza,Referral,37.74,40,41.0,4.0,Delivered
+ORD-01387,2025-01-20 20:00:00,Chicago,Pizza,Organic,17.09,30,27.0,4.0,Delivered
+ORD-01388,2025-03-22 23:00:00,Austin,Asian,Organic,74.67,40,51.0,3.0,Delivered
+ORD-01389,2025-01-15 06:00:00,Chicago,Mexican,Paid social,24.97,50,36.0,4.0,Delivered
+ORD-01390,2025-04-16 15:00:00,Denver,Burgers,Paid social,5.99,40,40.0,5.0,Delivered
+ORD-01391,2025-01-14 03:00:00,Austin,Mexican,Organic,29.33,30,,,Cancelled
+ORD-01392,2025-04-27 21:00:00,Seattle,Healthy,Paid social,22.27,50,42.0,4.0,Delivered
+ORD-01393,2025-03-22 13:00:00,Austin,Asian,Paid social,71.65,30,51.0,3.0,Delivered
+ORD-01394,2025-02-23 03:00:00,Austin,Burgers,Paid social,19.22,40,34.0,4.0,Delivered
+ORD-01395,2025-02-02 04:00:00,Denver,Healthy,Organic,27.35,40,52.0,5.0,Delivered
+ORD-01396,2025-02-11 08:00:00,Denver,Mexican,Organic,42.98,30,29.0,4.0,Delivered
+ORD-01397,2025-03-31 19:00:00,Chicago,Asian,Organic,55.0,30,43.0,2.0,Delivered
+ORD-01398,2025-04-01 09:00:00,Chicago,Pizza,Paid social,87.45,30,40.0,3.0,Delivered
+ORD-01399,2025-01-26 00:00:00,Austin,Mexican,Organic,20.43,50,24.0,5.0,Delivered
+ORD-01400,2025-03-07 03:00:00,Denver,Pizza,Paid social,81.59,40,37.0,5.0,Delivered
+ORD-01401,2025-04-30 03:00:00,Chicago,Pizza,Paid social,69.96,40,35.0,4.0,Delivered
+ORD-01402,2025-01-31 21:00:00,Austin,Asian,Paid social,22.03,50,26.0,5.0,Delivered
+ORD-01403,2025-03-25 05:00:00,Chicago,Asian,Organic,20.12,40,,,Cancelled
+ORD-01404,2025-01-21 15:00:00,Seattle,Mexican,Organic,49.08,40,36.0,5.0,Delivered
+ORD-01405,2025-04-11 02:00:00,Chicago,Asian,Organic,37.14,40,34.0,4.0,Delivered
+ORD-01406,2025-01-21 10:00:00,Seattle,Asian,Paid social,49.0,40,34.0,4.0,Delivered
+ORD-01407,2025-02-05 17:00:00,Chicago,Healthy,Referral,29.98,40,,,Cancelled
+ORD-01408,2025-02-25 02:00:00,Austin,Pizza,Organic,39.65,50,31.0,5.0,Delivered
+ORD-01409,2025-02-14 11:00:00,Chicago,Mexican,Referral,34.78,50,36.0,5.0,Delivered
+ORD-01410,2025-01-21 09:00:00,Chicago,Healthy,Organic,48.57,40,29.0,5.0,Delivered
+ORD-01411,2025-03-18 22:00:00,Austin,Asian,Organic,19.6,40,62.0,2.0,Delivered
+ORD-01412,2025-01-03 08:00:00,Denver,Burgers,Organic,41.68,50,,,Cancelled
+ORD-01413,2025-04-29 00:00:00,Chicago,Mexican,Paid social,86.37,30,29.0,4.0,Delivered
+ORD-01414,2025-01-07 06:00:00,Denver,Asian,Organic,83.38,50,,,Cancelled
+ORD-01415,2025-02-10 01:00:00,Chicago,Healthy,Organic,44.88,40,55.0,5.0,Delivered
+ORD-01416,2025-04-22 14:00:00,Chicago,Asian,Paid social,19.3,40,22.0,5.0,Delivered
+ORD-01417,2025-01-19 14:00:00,Chicago,Burgers,Paid social,111.75,50,39.0,5.0,Delivered
+ORD-01418,2025-01-09 18:00:00,Austin,Burgers,Organic,48.58,40,37.0,5.0,Delivered
+ORD-01419,2025-03-31 06:00:00,Denver,Mexican,Organic,105.17,30,38.0,4.0,Delivered
+ORD-01420,2025-01-09 18:00:00,Austin,Pizza,Paid social,49.87,50,,,Cancelled
+ORD-01421,2025-04-18 22:00:00,Denver,Asian,Organic,3.96,40,47.0,4.0,Delivered
+ORD-01422,2025-02-24 03:00:00,Seattle,Mexican,Organic,111.31,40,30.0,5.0,Delivered
+ORD-01423,2025-04-15 07:00:00,Seattle,Mexican,Paid social,63.93,40,37.0,5.0,Delivered
+ORD-01424,2025-01-30 09:00:00,Chicago,Pizza,Organic,38.66,40,16.0,5.0,Delivered
+ORD-01425,2025-01-17 22:00:00,Chicago,Pizza,Paid social,8.91,40,36.0,4.0,Delivered
+ORD-01426,2025-04-26 12:00:00,Seattle,Asian,Organic,68.31,30,27.0,5.0,Delivered
+ORD-01427,2025-04-02 11:00:00,Chicago,Mexican,Organic,49.56,40,33.0,5.0,Delivered
+ORD-01428,2025-04-20 07:00:00,Chicago,Healthy,Organic,130.68,50,18.0,4.0,Delivered
+ORD-01429,2025-02-08 09:00:00,Seattle,Asian,Organic,98.87,30,39.0,5.0,Delivered
+ORD-01430,2025-02-18 13:00:00,Seattle,Burgers,Organic,103.31,40,18.0,4.0,Delivered
+ORD-01431,2025-03-11 06:00:00,Seattle,Pizza,Organic,44.1,40,,,Cancelled
+ORD-01432,2025-02-23 20:00:00,Austin,Healthy,Referral,42.81,50,23.0,5.0,Delivered
+ORD-01433,2025-01-30 02:00:00,Seattle,Burgers,Referral,49.92,40,27.0,4.0,Delivered
+ORD-01434,2025-02-15 00:00:00,Austin,Burgers,Organic,23.8,50,47.0,5.0,Delivered
+ORD-01435,2025-03-15 01:00:00,Denver,Pizza,Paid social,39.43,30,41.0,5.0,Delivered
+ORD-01436,2025-01-05 13:00:00,Seattle,Burgers,Paid social,34.28,40,,,Cancelled
+ORD-01437,2025-02-10 07:00:00,Denver,Asian,Referral,80.16,50,51.0,4.0,Delivered
+ORD-01438,2025-02-05 03:00:00,Seattle,Healthy,Organic,90.3,50,27.0,4.0,Delivered
+ORD-01439,2025-01-09 10:00:00,Chicago,Pizza,Organic,58.83,40,,,Cancelled
+ORD-01440,2025-01-15 17:00:00,Chicago,Asian,Organic,20.98,40,,,Cancelled
+ORD-01441,2025-03-01 11:00:00,Chicago,Burgers,Organic,115.65,40,42.0,4.0,Delivered
+ORD-01442,2025-01-13 06:00:00,Chicago,Healthy,Organic,68.08,30,30.0,4.0,Delivered
+ORD-01443,2025-02-11 09:00:00,Denver,Asian,Referral,47.71,50,26.0,5.0,Delivered
+ORD-01444,2025-03-09 07:00:00,Chicago,Mexican,Referral,55.37,50,41.0,4.0,Delivered
+ORD-01445,2025-04-15 20:00:00,Denver,Burgers,Organic,13.02,40,44.0,5.0,Delivered
+ORD-01446,2025-01-12 20:00:00,Chicago,Asian,Organic,34.32,40,44.0,3.0,Delivered
+ORD-01447,2025-02-22 03:00:00,Chicago,Burgers,Organic,84.4,40,37.0,3.0,Delivered
+ORD-01448,2025-01-13 08:00:00,Austin,Pizza,Paid social,12.49,30,36.0,4.0,Delivered
+ORD-01449,2025-02-21 10:00:00,Denver,Pizza,Paid social,12.17,40,40.0,4.0,Delivered
+ORD-01450,2025-02-27 15:00:00,Seattle,Healthy,Organic,68.35,40,38.0,5.0,Delivered
+ORD-01451,2025-04-06 21:00:00,Seattle,Healthy,Referral,52.91,30,40.0,3.0,Delivered
+ORD-01452,2025-02-23 01:00:00,Chicago,Pizza,Referral,12.62,40,37.0,4.0,Delivered
+ORD-01453,2025-04-23 06:00:00,Chicago,Asian,Paid social,32.22,50,43.0,5.0,Delivered
+ORD-01454,2025-01-17 12:00:00,Denver,Mexican,Paid social,47.71,30,,,Cancelled
+ORD-01455,2025-01-07 09:00:00,Denver,Mexican,Paid social,44.11,40,34.0,4.0,Delivered
+ORD-01456,2025-01-01 12:00:00,Austin,Mexican,Organic,50.17,40,21.0,4.0,Delivered
+ORD-01457,2025-02-12 19:00:00,Denver,Burgers,Organic,30.58,30,38.0,5.0,Delivered
+ORD-01458,2025-01-24 03:00:00,Austin,Mexican,Paid social,45.59,40,51.0,3.0,Delivered
+ORD-01459,2025-01-11 23:00:00,Austin,Mexican,Organic,58.76,40,,,Cancelled
+ORD-01460,2025-01-29 07:00:00,Denver,Pizza,Referral,55.93,30,36.0,4.0,Delivered
+ORD-01461,2025-04-27 23:00:00,Austin,Asian,Organic,31.22,30,43.0,3.0,Delivered
+ORD-01462,2025-04-07 00:00:00,Chicago,Mexican,Organic,62.24,50,14.0,5.0,Delivered
+ORD-01463,2025-01-03 05:00:00,Denver,Pizza,Organic,19.21,40,30.0,5.0,Delivered
+ORD-01464,2025-04-20 20:00:00,Denver,Burgers,Referral,24.59,40,39.0,4.0,Delivered
+ORD-01465,2025-01-25 15:00:00,Chicago,Mexican,Organic,68.29,40,10.0,4.0,Delivered
+ORD-01466,2025-02-18 17:00:00,Austin,Asian,Organic,61.43,50,25.0,4.0,Delivered
+ORD-01467,2025-02-09 07:00:00,Seattle,Mexican,Organic,33.18,40,46.0,5.0,Delivered
+ORD-01468,2025-02-18 14:00:00,Seattle,Mexican,Paid social,24.23,50,45.0,4.0,Delivered
+ORD-01469,2025-04-02 06:00:00,Seattle,Asian,Referral,26.62,40,39.0,5.0,Delivered
+ORD-01470,2025-03-27 11:00:00,Denver,Asian,Organic,57.15,40,44.0,4.0,Delivered
+ORD-01471,2025-03-13 06:00:00,Chicago,Mexican,Referral,50.53,40,,,Cancelled
+ORD-01472,2025-03-17 05:00:00,Seattle,Burgers,Organic,23.13,40,41.0,5.0,Delivered
+ORD-01473,2025-03-29 07:00:00,Chicago,Healthy,Paid social,61.16,40,32.0,4.0,Delivered
+ORD-01474,2025-01-23 02:00:00,Austin,Asian,Organic,32.19,30,36.0,3.0,Delivered
+ORD-01475,2025-02-17 11:00:00,Seattle,Pizza,Paid social,19.7,40,29.0,4.0,Delivered
+ORD-01476,2025-01-13 22:00:00,Chicago,Healthy,Paid social,28.59,40,48.0,3.0,Delivered
+ORD-01477,2025-03-26 12:00:00,Seattle,Pizza,Paid social,41.43,30,50.0,3.0,Delivered
+ORD-01478,2025-02-22 12:00:00,Chicago,Asian,Organic,59.82,40,,,Cancelled
+ORD-01479,2025-03-18 11:00:00,Seattle,Burgers,Referral,57.43,50,31.0,4.0,Delivered
+ORD-01480,2025-03-09 18:00:00,Denver,Mexican,Referral,36.47,40,25.0,5.0,Delivered
+ORD-01481,2025-02-02 20:00:00,Chicago,Mexican,Organic,44.67,50,48.0,4.0,Delivered
+ORD-01482,2025-01-17 15:00:00,Chicago,Mexican,Paid social,34.37,40,40.0,4.0,Delivered
+ORD-01483,2025-04-27 18:00:00,Seattle,Pizza,Paid social,23.16,50,38.0,4.0,Delivered
+ORD-01484,2025-02-05 04:00:00,Austin,Pizza,Organic,37.39,50,29.0,5.0,Delivered
+ORD-01485,2025-01-14 03:00:00,Chicago,Asian,Referral,8.85,30,39.0,4.0,Delivered
+ORD-01486,2025-02-06 17:00:00,Chicago,Burgers,Organic,91.35,50,24.0,5.0,Delivered
+ORD-01487,2025-04-19 06:00:00,Denver,Pizza,Paid social,43.93,30,,,Cancelled
+ORD-01488,2025-02-01 08:00:00,Chicago,Healthy,Organic,51.8,40,49.0,3.0,Delivered
+ORD-01489,2025-04-29 09:00:00,Denver,Pizza,Organic,23.9,50,51.0,4.0,Delivered
+ORD-01490,2025-02-25 06:00:00,Chicago,Healthy,Paid social,43.68,40,42.0,4.0,Delivered
+ORD-01491,2025-04-14 10:00:00,Austin,Asian,Paid social,48.47,40,21.0,5.0,Delivered
+ORD-01492,2025-03-20 08:00:00,Austin,Healthy,Referral,33.27,40,37.0,5.0,Delivered
+ORD-01493,2025-01-06 06:00:00,Denver,Pizza,Referral,34.48,30,56.0,2.0,Delivered
+ORD-01494,2025-03-03 03:00:00,Chicago,Mexican,Organic,14.7,30,26.0,4.0,Delivered
+ORD-01495,2025-02-20 00:00:00,Chicago,Asian,Organic,109.28,30,34.0,4.0,Delivered
+ORD-01496,2025-01-25 04:00:00,Denver,Burgers,Organic,23.65,30,49.0,2.0,Delivered
+ORD-01497,2025-03-07 23:00:00,Chicago,Pizza,Organic,25.88,40,41.0,5.0,Delivered
+ORD-01498,2025-01-13 08:00:00,Chicago,Pizza,Paid social,94.87,40,60.0,3.0,Delivered
+ORD-01499,2025-03-25 19:00:00,Austin,Mexican,Referral,53.33,40,28.0,5.0,Delivered
+ORD-01500,2025-04-09 14:00:00,Chicago,Asian,Paid social,60.13,40,25.0,5.0,Delivered
