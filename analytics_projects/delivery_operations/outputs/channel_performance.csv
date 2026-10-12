@@ -1,0 +1,4 @@
+acquisition_channel,orders,cancellation_rate,delivered_orders,delivered_revenue,avg_delivery_minutes,avg_customer_rating,on_time_rate
+Organic,723,8.0,665,30348.35,34.6,4.27,67.8
+Paid social,484,7.9,446,19375.64,34.8,4.28,66.4
+Referral,293,10.9,261,11757.83,35.1,4.28,66.3

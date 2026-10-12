@@ -16,17 +16,26 @@ A reproducible Python project exploring delivery revenue, fulfillment speed, on-
 
 ![On-time delivery rate by city](outputs/on_time_rate_by_city.png)
 
+### Customer Experience and Acquisition
+
+![Average rating by restaurant category](outputs/rating_by_category.png)
+
+![Cancellation rate by acquisition channel](outputs/cancellation_by_channel.png)
+
 ## Questions Answered
 
 - How does delivered revenue change month to month and across cities?
 - What percentage of placed orders are cancelled?
 - Which cities have the fastest average delivery and the best on-time rate?
+- Which restaurant categories receive the highest customer ratings?
+- How does cancellation rate vary by acquisition channel?
 
 ## Metric Definitions
 
 - **Delivered revenue:** order value from delivered orders only; cancelled orders are excluded.
 - **Cancellation rate:** cancelled orders divided by all placed orders.
 - **Average delivery time:** mean delivery time for delivered orders only.
+- **Average customer rating:** mean rating for delivered orders only.
 - **On-time rate:** delivered orders arriving within the promised time, divided by all delivered orders.
 
 ## Run Locally
@@ -40,7 +49,7 @@ python generate_data.py
 python analyze_deliveries.py
 ```
 
-The analysis saves four charts and `city_performance.csv` to `outputs/`. The city metrics CSV includes total orders, delivered orders, delivered revenue, cancellation rate, average delivery time, and on-time rate.
+The analysis saves six charts and three segment-metrics CSVs (`city_performance.csv`, `category_performance.csv`, and `channel_performance.csv`) to `outputs/`. Each table includes order and delivery counts, delivered revenue, cancellation rate, average delivery time, average rating, and on-time rate.
 
 ## Project Files
 
